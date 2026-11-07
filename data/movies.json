@@ -1,0 +1,3941 @@
+[
+  {
+    "id": 157336,
+    "title": "Interstellar",
+    "release_year": 2014,
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Adventure"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain",
+      "Michael Caine"
+    ],
+    "keywords": [
+      "wormhole",
+      "black hole",
+      "space exploration",
+      "relativity",
+      "quantum physics",
+      "father daughter",
+      "time dilation",
+      "astronaut"
+    ],
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "vote_average": 8.4,
+    "vote_count": 34800,
+    "runtime": 169,
+    "tagline": "Mankind was born on Earth. It was never meant to die here.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/xJHokMbljvjADYdit5fK5VQsXEG.jpg"
+  },
+  {
+    "id": 27205,
+    "title": "Inception",
+    "release_year": 2010,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page",
+      "Tom Hardy"
+    ],
+    "keywords": [
+      "dream manipulation",
+      "subconscious",
+      "heist",
+      "mind extraction",
+      "reality vs fiction",
+      "corporate espionage",
+      "totem",
+      "architect"
+    ],
+    "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets, is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+    "vote_average": 8.4,
+    "vote_count": 36100,
+    "runtime": 148,
+    "tagline": "Your mind is the scene of the crime.",
+    "poster_path": "/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
+    "backdrop_path": "/s3TBrRGB1iav7gFOCNx3H31MoES.jpg"
+  },
+  {
+    "id": 335984,
+    "title": "Blade Runner 2049",
+    "release_year": 2017,
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Mystery"
+    ],
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Ryan Gosling",
+      "Harrison Ford",
+      "Ana de Armas",
+      "Sylvia Hoeks"
+    ],
+    "keywords": [
+      "replicant",
+      "cyberpunk",
+      "dystopia",
+      "artificial intelligence",
+      "existentialism",
+      "detective",
+      "future los angeles",
+      "identity"
+    ],
+    "overview": "Thirty years after the events of the first film, a new Blade Runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD Blade Runner who has been missing for 30 years.",
+    "vote_average": 8.0,
+    "vote_count": 13100,
+    "runtime": 164,
+    "tagline": "There's still a page left.",
+    "poster_path": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+    "backdrop_path": "/ilRyASDvt7zgv4nbmN2408WdIee.jpg"
+  },
+  {
+    "id": 603,
+    "title": "The Matrix",
+    "release_year": 1999,
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ],
+    "director": "Lana Wachowski",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving"
+    ],
+    "keywords": [
+      "simulated reality",
+      "cyberpunk",
+      "artificial intelligence",
+      "hacker",
+      "red pill",
+      "chosen one",
+      "dystopia",
+      "kung fu"
+    ],
+    "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a underground rebellion against the sophisticated computers who have ruled the earth and enslaved humans into a virtual reality illusion.",
+    "vote_average": 8.2,
+    "vote_count": 25200,
+    "runtime": 136,
+    "tagline": "Welcome to the Real World.",
+    "poster_path": "/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "backdrop_path": "/7u3DmFDAsDlZZkd00BPW7ZsYnS0.jpg"
+  },
+  {
+    "id": 438631,
+    "title": "Dune",
+    "release_year": 2021,
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Timothée Chalamet",
+      "Rebecca Ferguson",
+      "Oscar Isaac",
+      "Zendaya"
+    ],
+    "keywords": [
+      "desert planet",
+      "spice",
+      "sandworm",
+      "feudal empire",
+      "prophecy",
+      "messiah",
+      "space empire",
+      "political intrigue"
+    ],
+    "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence, only those who can conquer their fear will survive.",
+    "vote_average": 7.8,
+    "vote_count": 11400,
+    "runtime": 155,
+    "tagline": "Beyond fear, destiny awaits.",
+    "poster_path": "/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+    "backdrop_path": "/akB3m5BshKvfB4eZkMvT6kL3lHj.jpg"
+  },
+  {
+    "id": 329865,
+    "title": "Arrival",
+    "release_year": 2016,
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Mystery"
+    ],
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Amy Adams",
+      "Jeremy Renner",
+      "Forest Whitaker",
+      "Michael Stuhlbarg"
+    ],
+    "keywords": [
+      "alien encounter",
+      "linguistics",
+      "first contact",
+      "non-linear time",
+      "communication",
+      "grief",
+      "military",
+      "heptapod"
+    ],
+    "overview": "Taking place after alien spacecrafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
+    "vote_average": 7.6,
+    "vote_count": 17200,
+    "runtime": 116,
+    "tagline": "Why are they here?",
+    "poster_path": "/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
+    "backdrop_path": "/yIZ1xendyqKvY3FGeeBEUdOTr9z.jpg"
+  },
+  {
+    "id": 1124,
+    "title": "The Prestige",
+    "release_year": 2006,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Science Fiction"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Hugh Jackman",
+      "Christian Bale",
+      "Michael Caine",
+      "Scarlett Johansson"
+    ],
+    "keywords": [
+      "rival magicians",
+      "illusionist",
+      "obsession",
+      "teleportation",
+      "sacrifice",
+      "victorian london",
+      "nikola tesla",
+      "revenge"
+    ],
+    "overview": "A mysterious story of two magicians whose intense desire to unlock each other's secrets leads them into a dangerous rivalry, resulting in deadly results.",
+    "vote_average": 8.2,
+    "vote_count": 15800,
+    "runtime": 130,
+    "tagline": "Are you watching closely?",
+    "poster_path": "/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg",
+    "backdrop_path": "/meR7IeS5R6zV42V1ZgR9bKjF7dM.jpg"
+  },
+  {
+    "id": 577922,
+    "title": "Tenet",
+    "release_year": 2020,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "John David Washington",
+      "Robert Pattinson",
+      "Elizabeth Debicki",
+      "Kenneth Branagh"
+    ],
+    "keywords": [
+      "time inversion",
+      "entropy",
+      "espionage",
+      "world war iii",
+      "secret agent",
+      "quantum physics",
+      "heist"
+    ],
+    "overview": "Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+    "vote_average": 7.2,
+    "vote_count": 9200,
+    "runtime": 150,
+    "tagline": "Time runs out.",
+    "poster_path": "/rrKH3VhHssGTCfPuaEQkxvEoElv.jpg",
+    "backdrop_path": "/kMe4TKMDnUDw2vCQvvsm9PDUapU.jpg"
+  },
+  {
+    "id": 155,
+    "title": "The Dark Knight",
+    "release_year": 2008,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart",
+      "Michael Caine"
+    ],
+    "keywords": [
+      "joker",
+      "vigilante",
+      "gotham city",
+      "corruption",
+      "chaos",
+      "hero vs villain",
+      "anarchist",
+      "psychological warfare"
+    ],
+    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "vote_average": 8.5,
+    "vote_count": 32400,
+    "runtime": 152,
+    "tagline": "Welcome to a world without rules.",
+    "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "backdrop_path": "/nMKdUUepR0i5zn0y1T4CsSB5chy.jpg"
+  },
+  {
+    "id": 49026,
+    "title": "The Dark Knight Rises",
+    "release_year": 2012,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Christian Bale",
+      "Tom Hardy",
+      "Anne Hathaway",
+      "Gary Oldman"
+    ],
+    "keywords": [
+      "bane",
+      "catwoman",
+      "gotham",
+      "revolution",
+      "underground prison",
+      "sacrifice",
+      "batman",
+      "terrorist"
+    ],
+    "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest.",
+    "vote_average": 7.8,
+    "vote_count": 22300,
+    "runtime": 164,
+    "tagline": "A Fire Will Rise.",
+    "poster_path": "/vzvKcPQ4o7TjWeGIn0aGC9FeVNu.jpg",
+    "backdrop_path": "/fKGK0yGZJ9GkWVz2eM3VbK3i3hH.jpg"
+  },
+  {
+    "id": 299536,
+    "title": "Avengers: Infinity War",
+    "release_year": 2018,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "director": "Anthony Russo, Joe Russo",
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Mark Ruffalo",
+      "Josh Brolin"
+    ],
+    "keywords": [
+      "infinity stones",
+      "thanos",
+      "superhero team",
+      "cosmic battle",
+      "sacrifice",
+      "marvel cinematic universe",
+      "extinction event"
+    ],
+    "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones and use them to inflict his twisted will on all of reality.",
+    "vote_average": 8.2,
+    "vote_count": 29100,
+    "runtime": 149,
+    "tagline": "An entire universe. Once and for all.",
+    "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+    "backdrop_path": "/mDfJG3LC3Djh67UkHGio5r523Su.jpg"
+  },
+  {
+    "id": 299534,
+    "title": "Avengers: Endgame",
+    "release_year": 2019,
+    "genres": [
+      "Adventure",
+      "Science Fiction",
+      "Action"
+    ],
+    "director": "Anthony Russo, Joe Russo",
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo",
+      "Chris Hemsworth"
+    ],
+    "keywords": [
+      "time travel",
+      "quantum realm",
+      "thanos",
+      "superhero finale",
+      "sacrifice",
+      "resurrection",
+      "marvel cinematic universe"
+    ],
+    "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos's actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+    "vote_average": 8.3,
+    "vote_count": 25100,
+    "runtime": 181,
+    "tagline": "Part of the journey is the end.",
+    "poster_path": "/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg"
+  },
+  {
+    "id": 324857,
+    "title": "Spider-Man: Into the Spider-Verse",
+    "release_year": 2018,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+    "cast": [
+      "Shameik Moore",
+      "Jake Johnson",
+      "Hailee Steinfeld",
+      "Mahershala Ali"
+    ],
+    "keywords": [
+      "multiverse",
+      "alternate dimensions",
+      "spider-man",
+      "brooklyn",
+      "coming of age",
+      "comic book style",
+      "superhero"
+    ],
+    "overview": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is bitten by a radioactive spider and develops incredible powers that turn him into the one and only Spider-Man—until he meets other alternate heroes from the multiverse.",
+    "vote_average": 8.4,
+    "vote_count": 15000,
+    "runtime": 117,
+    "tagline": "More Than One Wears the Mask.",
+    "poster_path": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+    "backdrop_path": "/7d6f0V9z0k94aJz0tK8a3M7nL0X.jpg"
+  },
+  {
+    "id": 569094,
+    "title": "Spider-Man: Across the Spider-Verse",
+    "release_year": 2023,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "director": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",
+    "cast": [
+      "Shameik Moore",
+      "Hailee Steinfeld",
+      "Oscar Isaac",
+      "Daniel Kaluuya"
+    ],
+    "keywords": [
+      "canon event",
+      "multiverse",
+      "spider-society",
+      "destiny",
+      "interdimensional travel",
+      "rebellion",
+      "gwen stacy"
+    ],
+    "overview": "After reuniting with Gwen Stacy, Brooklyn's full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider-Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders.",
+    "vote_average": 8.4,
+    "vote_count": 6800,
+    "runtime": 140,
+    "tagline": "It's how you wear the mask that matters.",
+    "poster_path": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+    "backdrop_path": "/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg"
+  },
+  {
+    "id": 76341,
+    "title": "Mad Max: Fury Road",
+    "release_year": 2015,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "director": "George Miller",
+    "cast": [
+      "Tom Hardy",
+      "Charlize Theron",
+      "Nicholas Hoult",
+      "Hugh Keays-Byrne"
+    ],
+    "keywords": [
+      "post-apocalyptic",
+      "desert wasteland",
+      "car chase",
+      "tyrant",
+      "survival",
+      "liberation",
+      "immortan joe",
+      "practical stunts"
+    ],
+    "overview": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
+    "vote_average": 7.6,
+    "vote_count": 21800,
+    "runtime": 120,
+    "tagline": "What a Lovely Day.",
+    "poster_path": "/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+    "backdrop_path": "/nl79FQ8xWZyuL6gnvBTnxZdR23.jpg"
+  },
+  {
+    "id": 98,
+    "title": "Gladiator",
+    "release_year": 2000,
+    "genres": [
+      "Action",
+      "Drama",
+      "Adventure"
+    ],
+    "director": "Ridley Scott",
+    "cast": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen",
+      "Oliver Reed"
+    ],
+    "keywords": [
+      "roman empire",
+      "gladiator",
+      "revenge",
+      "colosseum",
+      "general",
+      "emperor commodus",
+      "honor",
+      "epic battle"
+    ],
+    "overview": "In the year 180, the death of emperor Marcus Aurelius throws the Roman Empire into turmoil. Maximus Decimus Meridius, a heroic and prominent Roman general, is betrayed by the corrupt prince Commodus, stripped of rank and family, and forced into slavery as a gladiator seeking vengeance.",
+    "vote_average": 8.2,
+    "vote_count": 18200,
+    "runtime": 155,
+    "tagline": "What we do in life echoes in eternity.",
+    "poster_path": "/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+    "backdrop_path": "/kIHgBGYo9xF48imTFeUQPPb92z.jpg"
+  },
+  {
+    "id": 361743,
+    "title": "Top Gun: Maverick",
+    "release_year": 2022,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "director": "Joseph Kosinski",
+    "cast": [
+      "Tom Cruise",
+      "Miles Teller",
+      "Jennifer Connelly",
+      "Jon Hamm"
+    ],
+    "keywords": [
+      "fighter jets",
+      "pilot",
+      "navy",
+      "aerial dogfight",
+      "mentorship",
+      "high speed",
+      "dangerous mission"
+    ],
+    "overview": "After more than thirty years of service as one of the Navy's top aviators, Pete Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him.",
+    "vote_average": 8.2,
+    "vote_count": 8900,
+    "runtime": 131,
+    "tagline": "Feel the need... The need for speed.",
+    "poster_path": "/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+    "backdrop_path": "/odJ4hx6g6vBt4lBWKFD1tqYZjM.jpg"
+  },
+  {
+    "id": 245891,
+    "title": "John Wick",
+    "release_year": 2014,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "director": "Chad Stahelski",
+    "cast": [
+      "Keanu Reeves",
+      "Michael Nyqvist",
+      "Alfie Allen",
+      "Willem Dafoe"
+    ],
+    "keywords": [
+      "assassin",
+      "underworld",
+      "continental hotel",
+      "revenge",
+      "gun fu",
+      "puppy",
+      "russian mafia",
+      "retired hitman"
+    ],
+    "overview": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him. With New York City as his bullet-riddled playground, Wick embarks on a merciless rampage of vengeance.",
+    "vote_average": 7.4,
+    "vote_count": 18600,
+    "runtime": 101,
+    "tagline": "Don't set him off.",
+    "poster_path": "/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
+    "backdrop_path": "/umC04Cozevu8nn3JTDJ1pc7PVTn.jpg"
+  },
+  {
+    "id": 238,
+    "title": "The Godfather",
+    "release_year": 1972,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "director": "Francis Ford Coppola",
+    "cast": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan",
+      "Robert Duvall"
+    ],
+    "keywords": [
+      "mafia",
+      "sicilian family",
+      "organized crime",
+      "patriarch",
+      "don corleone",
+      "betrayal",
+      "succession",
+      "power struggle"
+    ],
+    "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+    "vote_average": 8.7,
+    "vote_count": 19800,
+    "runtime": 175,
+    "tagline": "An offer you can't refuse.",
+    "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg"
+  },
+  {
+    "id": 240,
+    "title": "The Godfather Part II",
+    "release_year": 1974,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "director": "Francis Ford Coppola",
+    "cast": [
+      "Al Pacino",
+      "Robert De Niro",
+      "Robert Duvall",
+      "Diane Keaton"
+    ],
+    "keywords": [
+      "mafia empire",
+      "prequel and sequel",
+      "immigration",
+      "corruption",
+      "family betrayal",
+      "nevada casino",
+      "cuba revolution"
+    ],
+    "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+    "vote_average": 8.6,
+    "vote_count": 12200,
+    "runtime": 202,
+    "tagline": "All the power on earth can't change destiny.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/0/03/Godfather_part_ii.jpg",
+    "backdrop_path": "/kGzFbGhp99zva6oZODq5atUfwQI.jpg"
+  },
+  {
+    "id": 680,
+    "title": "Pulp Fiction",
+    "release_year": 1994,
+    "genres": [
+      "Thriller",
+      "Crime"
+    ],
+    "director": "Quentin Tarantino",
+    "cast": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman",
+      "Bruce Willis"
+    ],
+    "keywords": [
+      "non-linear storyline",
+      "hitman",
+      "briefcase",
+      "overdose",
+      "boxer",
+      "mob boss",
+      "diner robbery",
+      "witty dialogue"
+    ],
+    "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+    "vote_average": 8.5,
+    "vote_count": 27100,
+    "runtime": 154,
+    "tagline": "Just because you are a character doesn't mean you have character.",
+    "poster_path": "/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+    "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg"
+  },
+  {
+    "id": 550,
+    "title": "Fight Club",
+    "release_year": 1999,
+    "genres": [
+      "Drama"
+    ],
+    "director": "David Fincher",
+    "cast": [
+      "Edward Norton",
+      "Brad Pitt",
+      "Helena Bonham Carter",
+      "Meat Loaf"
+    ],
+    "keywords": [
+      "insomnia",
+      "split personality",
+      "anarchism",
+      "underground fight club",
+      "anti-consumerism",
+      "soap maker",
+      "project mayhem"
+    ],
+    "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+    "vote_average": 8.4,
+    "vote_count": 28500,
+    "runtime": 139,
+    "tagline": "Mischief. Mayhem. Soap.",
+    "poster_path": "/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+    "backdrop_path": "/hZkgoQYus5vegHoetLkCJzb17zJ.jpg"
+  },
+  {
+    "id": 769,
+    "title": "GoodFellas",
+    "release_year": 1990,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "director": "Martin Scorsese",
+    "cast": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci",
+      "Lorraine Bracco"
+    ],
+    "keywords": [
+      "mobster",
+      "heist",
+      "fbi informant",
+      "brooklyn mafia",
+      "drugs",
+      "rise and fall",
+      "lufthansa heist",
+      "gangster lifestyle"
+    ],
+    "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian boy growing up in the 1950s in Brooklyn who joins the neighborhood mafia family and works his way up through the ranks alongside seasoned wiseguys Jimmy Conway and Tommy DeVito.",
+    "vote_average": 8.5,
+    "vote_count": 12400,
+    "runtime": 145,
+    "tagline": "Three Decades of Life in the Mafia.",
+    "poster_path": "/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+    "backdrop_path": "/sw7mordbZxgITU877yTpZCud90M.jpg"
+  },
+  {
+    "id": 278,
+    "title": "The Shawshank Redemption",
+    "release_year": 1994,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "director": "Frank Darabont",
+    "cast": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton",
+      "William Sadler"
+    ],
+    "keywords": [
+      "wrongful conviction",
+      "prison escape",
+      "friendship",
+      "hope",
+      "corrupt warden",
+      "geology hammer",
+      "tunnel",
+      "redemption"
+    ],
+    "overview": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unshakeable sense of hope.",
+    "vote_average": 8.7,
+    "vote_count": 26200,
+    "runtime": 142,
+    "tagline": "Fear can hold you prisoner. Hope can set you free.",
+    "poster_path": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+    "backdrop_path": "/kXfqcdQKsToO0OUXHcrrNCHDBzO.jpg"
+  },
+  {
+    "id": 496243,
+    "title": "Parasite",
+    "release_year": 2019,
+    "genres": [
+      "Comedy",
+      "Thriller",
+      "Drama"
+    ],
+    "director": "Bong Joon-ho",
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong",
+      "Choi Woo-shik"
+    ],
+    "keywords": [
+      "class struggle",
+      "social satire",
+      "con artists",
+      "seoul",
+      "underground bunker",
+      "rainstorm",
+      "wealth inequality",
+      "dark comedy"
+    ],
+    "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+    "vote_average": 8.5,
+    "vote_count": 17500,
+    "runtime": 132,
+    "tagline": "Act like you own the place.",
+    "poster_path": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "backdrop_path": "/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg"
+  },
+  {
+    "id": 807,
+    "title": "Se7en",
+    "release_year": 1995,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "David Fincher",
+    "cast": [
+      "Brad Pitt",
+      "Morgan Freeman",
+      "Gwyneth Paltrow",
+      "Kevin Spacey"
+    ],
+    "keywords": [
+      "seven deadly sins",
+      "serial killer",
+      "detective partners",
+      "dark rainy city",
+      "what's in the box",
+      "psychological thriller"
+    ],
+    "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\": gluttony, greed, sloth, wrath, pride, lust and envy. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+    "vote_average": 8.4,
+    "vote_count": 20200,
+    "runtime": 127,
+    "tagline": "Seven deadly sins. Seven ways to die.",
+    "poster_path": "/6yoghtyTpznpBik8EngEmJskVUO.jpg",
+    "backdrop_path": "/ba4OhUdRqc4hxIqKqY8q4tP0M.jpg"
+  },
+  {
+    "id": 274,
+    "title": "The Silence of the Lambs",
+    "release_year": 1991,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Jonathan Demme",
+    "cast": [
+      "Jodie Foster",
+      "Anthony Hopkins",
+      "Scott Glenn",
+      "Ted Levine"
+    ],
+    "keywords": [
+      "hannibal lecter",
+      "fbi trainee",
+      "cannibal",
+      "buffalo bill",
+      "serial killer profiler",
+      "psychological manipulation",
+      "moth"
+    ],
+    "overview": "Clarice Starling is a top student at the FBI's training academy. Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism. Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.",
+    "vote_average": 8.3,
+    "vote_count": 15600,
+    "runtime": 118,
+    "tagline": "To enter the mind of a killer she must challenge the mind of a madman.",
+    "poster_path": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+    "backdrop_path": "/mfwq2nMBzArzQ7Y9RRF8bh9zbsz.jpg"
+  },
+  {
+    "id": 1422,
+    "title": "The Departed",
+    "release_year": 2006,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Crime"
+    ],
+    "director": "Martin Scorsese",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Matt Damon",
+      "Jack Nicholson",
+      "Mark Wahlberg"
+    ],
+    "keywords": [
+      "undercover cop",
+      "boston mob",
+      "rat informant",
+      "state police",
+      "irish mafia",
+      "double agent",
+      "frank costello"
+    ],
+    "overview": "To take down South Boston's Irish Mafia, the police send in one of their own to infiltrate the underworld, not realizing the syndicate has also planted a mole in the police department. When both sides discover they have a rat in their midst, the two moles must race to uncover each other's identities.",
+    "vote_average": 8.2,
+    "vote_count": 14200,
+    "runtime": 151,
+    "tagline": "Lies. Betrayal. Sacrifice. How far will you take it?",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/5/50/Departed234.jpg",
+    "backdrop_path": "/m1nKn8wS59w83a2p2vY5l3M7Q1k.jpg"
+  },
+  {
+    "id": 6977,
+    "title": "No Country for Old Men",
+    "release_year": 2007,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Joel Coen, Ethan Coen",
+    "cast": [
+      "Tommy Lee Jones",
+      "Javier Bardem",
+      "Josh Brolin",
+      "Woody Harrelson"
+    ],
+    "keywords": [
+      "anton chigurh",
+      "drug money suitcase",
+      "psychopathic hitman",
+      "texas desert",
+      "aging sheriff",
+      "fate",
+      "coin toss"
+    ],
+    "overview": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of hunter and hunted blur as the violent pursuit ensues across the desolate landscape.",
+    "vote_average": 8.1,
+    "vote_count": 11500,
+    "runtime": 122,
+    "tagline": "There are no clean getaways.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/8/8b/No_Country_for_Old_Men_poster.jpg",
+    "backdrop_path": "/k3T9kG8lG9T9aE8uJ0eJvK2gQ.jpg"
+  },
+  {
+    "id": 129,
+    "title": "Spirited Away",
+    "release_year": 2001,
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "director": "Hayao Miyazaki",
+    "cast": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki",
+      "Takashi Naito"
+    ],
+    "keywords": [
+      "bathhouse of spirits",
+      "studio ghibli",
+      "curse",
+      "witch yubaba",
+      "dragon boy haku",
+      "no-face",
+      "coming of age",
+      "magic"
+    ],
+    "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+    "vote_average": 8.5,
+    "vote_count": 16100,
+    "runtime": 125,
+    "tagline": "The tunnel led to a mysterious world.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/d/db/Spirited_Away_Japanese_poster.png",
+    "backdrop_path": "/mSDsSDwaP3E7dEfUPWy4J0djt4O.jpg"
+  },
+  {
+    "id": 354912,
+    "title": "Coco",
+    "release_year": 2017,
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy",
+      "Music"
+    ],
+    "director": "Lee Unkrich, Adrian Molina",
+    "cast": [
+      "Anthony Gonzalez",
+      "Gael García Bernal",
+      "Benjamin Bratt",
+      "Alanna Ubach"
+    ],
+    "keywords": [
+      "day of the dead",
+      "land of the dead",
+      "mexican culture",
+      "guitar music",
+      "ancestors",
+      "family memory",
+      "pixar"
+    ],
+    "overview": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events.",
+    "vote_average": 8.2,
+    "vote_count": 18400,
+    "runtime": 105,
+    "tagline": "The celebration of a lifetime.",
+    "poster_path": "/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg",
+    "backdrop_path": "/askg3SMvhqEl4OL52YuvdtQw40.jpg"
+  },
+  {
+    "id": 10681,
+    "title": "WALL·E",
+    "release_year": 2008,
+    "genres": [
+      "Animation",
+      "Family",
+      "Science Fiction"
+    ],
+    "director": "Andrew Stanton",
+    "cast": [
+      "Ben Burtt",
+      "Elissa Knight",
+      "Jeff Garlin",
+      "Fred Willard"
+    ],
+    "keywords": [
+      "trash collector robot",
+      "earth abandoned",
+      "space ship axiom",
+      "plant seedling",
+      "love story",
+      "silent comedy",
+      "pixar"
+    ],
+    "overview": "WALL·E is the last robot left on an abandoned Earth, spending his days tidying up the planet one piece of garbage at a time. But during 700 years, WALL·E has developed a personality, and is more than a little lonely. Then he spots EVE, a sleek probe sent back to Earth on a scanning mission.",
+    "vote_average": 8.1,
+    "vote_count": 18000,
+    "runtime": 98,
+    "tagline": "After 700 years of doing what he was built for, he'll discover what he was meant for.",
+    "poster_path": "/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+    "backdrop_path": "/f433sNqjVd9p7x7k5sWqF0d1.jpg"
+  },
+  {
+    "id": 120,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "release_year": 2001,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "director": "Peter Jackson",
+    "cast": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen",
+      "Sean Astin"
+    ],
+    "keywords": [
+      "one ring",
+      "middle-earth",
+      "frodo baggins",
+      "gandalf",
+      "mordor",
+      "fellowship",
+      "sauron",
+      "epic fantasy"
+    ],
+    "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home behind in order to begin a perilous journey across Middle-earth to the Cracks of Doom to destroy the One Ring before the Dark Lord Sauron can reclaim it.",
+    "vote_average": 8.4,
+    "vote_count": 24300,
+    "runtime": 178,
+    "tagline": "One ring to rule them all.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/f/fb/Lord_Rings_Fellowship_Ring.jpg",
+    "backdrop_path": "/x2RS3uTcsJJ9Ifj2z8yA69x5g1P.jpg"
+  },
+  {
+    "id": 122,
+    "title": "The Lord of the Rings: The Return of the King",
+    "release_year": 2003,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "director": "Peter Jackson",
+    "cast": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen",
+      "Orlando Bloom"
+    ],
+    "keywords": [
+      "siege of gondor",
+      "mount doom",
+      "gollum",
+      "king of gondor",
+      "final battle",
+      "middle-earth",
+      "one ring destruction"
+    ],
+    "overview": "As armies mass for a final battle that will decide the fate of the world -- and powerful, ancient forces of Light and Dark compete to determine the outcome -- one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men.",
+    "vote_average": 8.5,
+    "vote_count": 23100,
+    "runtime": 201,
+    "tagline": "The eye of the enemy is moving.",
+    "poster_path": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+    "backdrop_path": "/2auDh9aVz1tQ3A8yG2nF6k8K0.jpg"
+  },
+  {
+    "id": 313369,
+    "title": "La La Land",
+    "release_year": 2016,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Music"
+    ],
+    "director": "Damien Chazelle",
+    "cast": [
+      "Ryan Gosling",
+      "Emma Stone",
+      "John Legend",
+      "J.K. Simmons"
+    ],
+    "keywords": [
+      "jazz pianist",
+      "aspiring actress",
+      "los angeles",
+      "hollywood dream",
+      "musical romance",
+      "planetarium dance",
+      "bittersweet love"
+    ],
+    "overview": "Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
+    "vote_average": 7.9,
+    "vote_count": 16000,
+    "runtime": 128,
+    "tagline": "Here's to the fools who dream.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/a/ab/La_La_Land_%28film%29.png",
+    "backdrop_path": "/nadTlnTE6DdgmYsN2iWZe2V2W5p.jpg"
+  },
+  {
+    "id": 244786,
+    "title": "Whiplash",
+    "release_year": 2014,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "director": "Damien Chazelle",
+    "cast": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Paul Reiser",
+      "Melissa Benoist"
+    ],
+    "keywords": [
+      "jazz drummer",
+      "ruthless music teacher",
+      "shaffer conservatory",
+      "obsession with greatness",
+      "caravan",
+      "blood on cymbals"
+    ],
+    "overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity and mental stability.",
+    "vote_average": 8.4,
+    "vote_count": 14500,
+    "runtime": 107,
+    "tagline": "The road to greatness can take you to the edge.",
+    "poster_path": "/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+    "backdrop_path": "/vQWk5YBFWF4bOhOqqE126uvAh8n.jpg"
+  },
+  {
+    "id": 11324,
+    "title": "Shutter Island",
+    "release_year": 2010,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Mystery"
+    ],
+    "director": "Martin Scorsese",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Mark Ruffalo",
+      "Ben Kingsley",
+      "Max von Sydow"
+    ],
+    "keywords": [
+      "asylum",
+      "us marshal",
+      "lighthouse",
+      "hallucination",
+      "patient 67",
+      "twist ending",
+      "psychiatric hospital",
+      "grief"
+    ],
+    "overview": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from Boston's Shutter Island Ashecliffe Hospital. He's been pushing for an assignment on the island for personal reasons, but before long he wonders whether he hasn't been brought there as part of a twisted plot by hospital doctors whose radical treatments range from unethical to illegal.",
+    "vote_average": 8.2,
+    "vote_count": 23100,
+    "runtime": 138,
+    "tagline": "Someone is missing.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/7/76/Shutterislandposter.jpg",
+    "backdrop_path": "/7wR7u9L9W5o5e2A7c1kL7yY1j.jpg"
+  },
+  {
+    "id": 210577,
+    "title": "Gone Girl",
+    "release_year": 2014,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Drama"
+    ],
+    "director": "David Fincher",
+    "cast": [
+      "Ben Affleck",
+      "Rosamund Pike",
+      "Neil Patrick Harris",
+      "Tyler Perry"
+    ],
+    "keywords": [
+      "missing wife",
+      "cool girl monologue",
+      "media frenzy",
+      "toxic marriage",
+      "framed murder",
+      "diary entries",
+      "psychopath"
+    ],
+    "overview": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+    "vote_average": 7.9,
+    "vote_count": 17800,
+    "runtime": 149,
+    "tagline": "You don't know what you've got 'til it's...",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/xSNE5c0mJ8Q2B3iM5sY1L9k.jpg"
+  },
+  {
+    "id": 194662,
+    "title": "Birdman",
+    "release_year": 2014,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Alejandro González Iñárritu",
+    "cast": [
+      "Michael Keaton",
+      "Edward Norton",
+      "Emma Stone",
+      "Naomi Watts"
+    ],
+    "keywords": [
+      "broadway play",
+      "washed up superhero actor",
+      "single continuous shot style",
+      "ego",
+      "critic review",
+      "hallucinations"
+    ],
+    "overview": "A fading actor best known for playing the titular superhero attempts to mount a comeback by directing and starring in a Broadway play, battling his fractured ego, family tensions, and an eccentric co-star.",
+    "vote_average": 7.5,
+    "vote_count": 12400,
+    "runtime": 119,
+    "tagline": "Or (The Unexpected Virtue of Ignorance)",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/6/63/Birdman_poster.png",
+    "backdrop_path": "/4f3aYk5lM7mB8iQ2p7m0N3c.jpg"
+  },
+  {
+    "id": 120467,
+    "title": "The Grand Budapest Hotel",
+    "release_year": 2014,
+    "genres": [
+      "Comedy",
+      "Adventure"
+    ],
+    "director": "Wes Anderson",
+    "cast": [
+      "Ralph Fiennes",
+      "Tony Revolori",
+      "Saoirse Ronan",
+      "Willem Dafoe"
+    ],
+    "keywords": [
+      "concierge",
+      "lobby boy",
+      "stolen painting",
+      "whimsical alpine hotel",
+      "color symmetry",
+      "pastry bakery",
+      "prison escape"
+    ],
+    "overview": "The Grand Budapest Hotel recounts the adventures of legendary concierge Gustave H. and Zero Moustafa, the lobby boy who becomes his most trusted friend. The story involves the theft and recovery of a priceless Renaissance painting and the battle for an enormous family fortune.",
+    "vote_average": 8.0,
+    "vote_count": 14100,
+    "runtime": 99,
+    "tagline": "A romantic European comedy of intrigue.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/b4i7j6x8j3b5m2o1k9q8w.jpg"
+  },
+  {
+    "id": 546554,
+    "title": "Knives Out",
+    "release_year": 2019,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "director": "Rian Johnson",
+    "cast": [
+      "Daniel Craig",
+      "Ana de Armas",
+      "Chris Evans",
+      "Jamie Lee Curtis"
+    ],
+    "keywords": [
+      "benoit blanc",
+      "whodunit",
+      "wealthy eccentric novelist",
+      "dysfunctional family",
+      "inheritance",
+      "detective investigation"
+    ],
+    "overview": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth.",
+    "vote_average": 7.8,
+    "vote_count": 11800,
+    "runtime": 130,
+    "tagline": "Hell, any of them could have done it.",
+    "poster_path": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+    "backdrop_path": "/4W9m4iZ2pL9q0uK2iN5sM1.jpg"
+  },
+  {
+    "id": 597,
+    "title": "Titanic",
+    "release_year": 1997,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "director": "James Cameron",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Kate Winslet",
+      "Billy Zane",
+      "Kathy Bates"
+    ],
+    "keywords": [
+      "shipwreck",
+      "iceberg",
+      "class divide",
+      "jack and rose",
+      "heart of the ocean",
+      "virgin voyage",
+      "tragedy"
+    ],
+    "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. The story tells of the maiden voyage of the Titanic and its tragic sinking.",
+    "vote_average": 7.9,
+    "vote_count": 24500,
+    "runtime": 194,
+    "tagline": "Nothing on Earth could come between them.",
+    "poster_path": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+    "backdrop_path": "/yDHYTfA3R0jFYba16jBB12Wvg2.jpg"
+  },
+  {
+    "id": 152601,
+    "title": "Her",
+    "release_year": 2013,
+    "genres": [
+      "Romance",
+      "Science Fiction",
+      "Drama"
+    ],
+    "director": "Spike Jonze",
+    "cast": [
+      "Joaquin Phoenix",
+      "Scarlett Johansson",
+      "Amy Adams",
+      "Rooney Mara"
+    ],
+    "keywords": [
+      "artificial intelligence",
+      "operating system love",
+      "loneliness",
+      "future los angeles",
+      "voice assistant samantha",
+      "melancholy"
+    ],
+    "overview": "In the near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
+    "vote_average": 7.9,
+    "vote_count": 13700,
+    "runtime": 126,
+    "tagline": "A Spike Jonze Love Story.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/4/44/Her2013Poster.jpg",
+    "backdrop_path": "/jB9k0y5s2WqF0d1.jpg"
+  },
+  {
+    "id": 264660,
+    "title": "Ex Machina",
+    "release_year": 2014,
+    "genres": [
+      "Drama",
+      "Science Fiction"
+    ],
+    "director": "Alex Garland",
+    "cast": [
+      "Domhnall Gleeson",
+      "Alicia Vikander",
+      "Oscar Isaac",
+      "Sonoya Mizuno"
+    ],
+    "keywords": [
+      "turing test",
+      "humanoid robot ava",
+      "eccentric tech billionaire",
+      "secluded facility",
+      "ai manipulation",
+      "consciousness"
+    ],
+    "overview": "Celebrated programmer Caleb Smith wins a contest to spend a week at the private mountain estate of Nathan Bateman, the brilliant CEO of his tech company. There, Caleb discovers he has been chosen to be the human component in a Turing Test—evaluating the capabilities, and ultimately the consciousness, of Nathan's latest experiment in artificial intelligence.",
+    "vote_average": 7.6,
+    "vote_count": 12900,
+    "runtime": 108,
+    "tagline": "There is nothing more human than the will to survive.",
+    "poster_path": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/ba/Ex-machina-uk-poster.jpg/330px-Ex-machina-uk-poster.jpg",
+    "backdrop_path": "/8X4m1yQ9k9v3A2pL.jpg"
+  },
+  {
+    "id": 545611,
+    "title": "Everything Everywhere All at Once",
+    "release_year": 2022,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction",
+      "Comedy"
+    ],
+    "director": "Daniel Kwan, Daniel Scheinert",
+    "cast": [
+      "Michelle Yeoh",
+      "Ke Huy Quan",
+      "Stephanie Hsu",
+      "Jamie Lee Curtis"
+    ],
+    "keywords": [
+      "multiverse",
+      "laundromat",
+      "bagel of nothingness",
+      "existential nihilism",
+      "mother daughter reconciliation",
+      "martial arts",
+      "googly eyes"
+    ],
+    "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
+    "vote_average": 7.8,
+    "vote_count": 6200,
+    "runtime": 139,
+    "tagline": "The universe is so much bigger than you realize.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/1/1e/Everything_Everywhere_All_at_Once.jpg",
+    "backdrop_path": "/4hodYYKEIsGOdinkGi2Ucz6X9i0.jpg"
+  },
+  {
+    "id": 693134,
+    "title": "Dune: Part Two",
+    "release_year": 2024,
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Timothée Chalamet",
+      "Zendaya",
+      "Rebecca Ferguson",
+      "Javier Bardem"
+    ],
+    "keywords": [
+      "arrakis",
+      "fremen holy war",
+      "paul atreides muad'dib",
+      "giant sandworm riding",
+      "emperor shaddam",
+      "feyd-rautha",
+      "revenge"
+    ],
+    "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, he endeavors to prevent a terrible future only he can foresee.",
+    "vote_average": 8.2,
+    "vote_count": 5500,
+    "runtime": 166,
+    "tagline": "Long live the fighters.",
+    "poster_path": "/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+    "backdrop_path": "/xOMo8BRK7PfcJv9JCnx7s5hj0x2.jpg"
+  },
+  {
+    "id": 872585,
+    "title": "Oppenheimer",
+    "release_year": 2023,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Cillian Murphy",
+      "Emily Blunt",
+      "Matt Damon",
+      "Robert Downey Jr."
+    ],
+    "keywords": [
+      "manhattan project",
+      "atomic bomb",
+      "j. robert oppenheimer",
+      "los alamos",
+      "trinity test",
+      "quantum mechanics",
+      "red scare"
+    ],
+    "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II, his theoretical leadership of the Manhattan Project, and the subsequent political fallout and security clearance hearing in the 1950s.",
+    "vote_average": 8.1,
+    "vote_count": 8700,
+    "runtime": 180,
+    "tagline": "The world forever changes.",
+    "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+    "backdrop_path": "/rLb2cwF3Pazuxaj0sytQKiNx59R.jpg"
+  },
+  {
+    "id": 414906,
+    "title": "The Batman",
+    "release_year": 2022,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Matt Reeves",
+    "cast": [
+      "Robert Pattinson",
+      "Zoë Kravitz",
+      "Paul Dano",
+      "Jeffrey Wright"
+    ],
+    "keywords": [
+      "riddler puzzles",
+      "detective noir",
+      "gotham flood",
+      "bruce wayne year two",
+      "catwoman",
+      "penguin",
+      "corruption"
+    ],
+    "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+    "vote_average": 7.7,
+    "vote_count": 9400,
+    "runtime": 176,
+    "tagline": "Unmask the truth.",
+    "poster_path": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+    "backdrop_path": "/5P8SmMzSNYikXpxil6BYzG16611.jpg"
+  },
+  {
+    "id": 1578,
+    "title": "Raging Bull",
+    "release_year": 1980,
+    "genres": [
+      "Drama"
+    ],
+    "director": "Martin Scorsese",
+    "cast": [
+      "Robert De Niro",
+      "Cathy Moriarty",
+      "Joe Pesci",
+      "Frank Vincent"
+    ],
+    "keywords": [
+      "boxer",
+      "jake lamotta",
+      "middleweight champion",
+      "paranoia",
+      "jealousy",
+      "black and white cinematography"
+    ],
+    "overview": "The story of a middleweight boxer as he rises through ranks to earn his first shot at the middleweight crown. He falls in love with a gorgeous girl from the Bronx. The inability to express his feelings enters into the ring and eventually takes over his life.",
+    "vote_average": 8.0,
+    "vote_count": 4100,
+    "runtime": 129,
+    "tagline": "His story is as raw as his boxing.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/x2m9y8q1k7.jpg"
+  },
+  {
+    "id": 105,
+    "title": "Back to the Future",
+    "release_year": 1985,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Science Fiction"
+    ],
+    "director": "Robert Zemeckis",
+    "cast": [
+      "Michael J. Fox",
+      "Christopher Lloyd",
+      "Lea Thompson",
+      "Crispin Glover"
+    ],
+    "keywords": [
+      "delorean time machine",
+      "doc brown",
+      "marty mcfly",
+      "1955 hill valley",
+      "clock tower lightning",
+      "flux capacitor"
+    ],
+    "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and must make them fall in love to ensure his own existence.",
+    "vote_average": 8.3,
+    "vote_count": 19400,
+    "runtime": 116,
+    "tagline": "He was never in time for his classes... He wasn't in time for his dinner... Then one day he wasn't in his time at all.",
+    "poster_path": "/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",
+    "backdrop_path": "/58nKk8zFjX5G1Z9f5a0M9.jpg"
+  },
+  {
+    "id": 601,
+    "title": "E.T. the Extra-Terrestrial",
+    "release_year": 1982,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Family"
+    ],
+    "director": "Steven Spielberg",
+    "cast": [
+      "Henry Thomas",
+      "Drew Barrymore",
+      "Dee Wallace",
+      "Peter Coyote"
+    ],
+    "keywords": [
+      "alien friend",
+      "elliott",
+      "glowing finger",
+      "flying bicycle",
+      "phone home",
+      "friendship",
+      "suburban california"
+    ],
+    "overview": "An alien is stranded on Earth and discovered by a 10-year-old boy named Elliott. Together with his siblings, Elliott helps the gentle visitor find a way back home while hiding him from government scientists.",
+    "vote_average": 7.5,
+    "vote_count": 11000,
+    "runtime": 115,
+    "tagline": "He is afraid. He is totally alone. He is 3 million light years from home.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/6/66/E_t_the_extra_terrestrial_ver3.jpg",
+    "backdrop_path": "/7m9y0q8w1.jpg"
+  },
+  {
+    "id": 389,
+    "title": "12 Angry Men",
+    "release_year": 1957,
+    "genres": [
+      "Drama"
+    ],
+    "director": "Sidney Lumet",
+    "cast": [
+      "Henry Fonda",
+      "Lee J. Cobb",
+      "Martin Balsam",
+      "Jack Warden"
+    ],
+    "keywords": [
+      "jury room",
+      "murder trial",
+      "reasonable doubt",
+      "deliberation",
+      "prejudice",
+      "unanimous verdict"
+    ],
+    "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if an 18-year-old native is guilty of murdering his father. What begins as an open and shut murder case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions.",
+    "vote_average": 8.5,
+    "vote_count": 8300,
+    "runtime": 96,
+    "tagline": "Life is in their hands. Death is on their minds.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/qqHQsStVQi29Jez2ikz9NGe6ehp.jpg"
+  },
+  {
+    "id": 429,
+    "title": "The Good, the Bad and the Ugly",
+    "release_year": 1966,
+    "genres": [
+      "Western"
+    ],
+    "director": "Sergio Leone",
+    "cast": [
+      "Clint Eastwood",
+      "Eli Wallach",
+      "Lee Van Cleef",
+      "Aldo Giuffrè"
+    ],
+    "keywords": [
+      "spaghetti western",
+      "confederate gold",
+      "three-way duel",
+      "sad hill cemetery",
+      "man with no name",
+      "civil war"
+    ],
+    "overview": "While the Civil War rages between the Union and a divided America, three men – a quiet loner, a ruthless hitman and a Mexican bandit – scour the American Southwest in a race to find a fortune in stolen Confederate gold buried in a cemetery.",
+    "vote_average": 8.5,
+    "vote_count": 8300,
+    "runtime": 161,
+    "tagline": "For three men the Civil War wasn't about set of beliefs. It was about gold.",
+    "poster_path": "/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+    "backdrop_path": "/eoCSp75lxflSr6TaOQoS5.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Forrest Gump",
+    "release_year": 1994,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "director": "Robert Zemeckis",
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise",
+      "Sally Field"
+    ],
+    "keywords": [
+      "life is like a box of chocolates",
+      "vietnam war",
+      "ping pong",
+      "shrimp boat",
+      "run forrest run",
+      "alabama",
+      "innocence"
+    ],
+    "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined possible. But despite all that he has achieved, his one true love eludes him.",
+    "vote_average": 8.5,
+    "vote_count": 26900,
+    "runtime": 142,
+    "tagline": "The world will never be the same once you've seen it through the eyes of Forrest Gump.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg",
+    "backdrop_path": "/qdIMHd4sEfJSckfVJfGHvisNg2b.jpg"
+  },
+  {
+    "id": 8587,
+    "title": "The Lion King",
+    "release_year": 1994,
+    "genres": [
+      "Animation",
+      "Family",
+      "Drama"
+    ],
+    "director": "Roger Allers, Rob Minkoff",
+    "cast": [
+      "Matthew Broderick",
+      "James Earl Jones",
+      "Jeremy Irons",
+      "Nathan Lane"
+    ],
+    "keywords": [
+      "african savanna",
+      "simba",
+      "mufasa",
+      "scar betrayal",
+      "hakuna matata",
+      "circle of life",
+      "pride rock",
+      "disney classic"
+    ],
+    "overview": "A young lion prince named Simba is tricked by his treacherous uncle Scar into thinking he caused his father's death, fleeing his kingdom into exile only to learn the value of responsibility and reclaim his rightful throne.",
+    "vote_average": 8.3,
+    "vote_count": 18000,
+    "runtime": 89,
+    "tagline": "Life's greatest adventure is finding your place in the Circle of Life.",
+    "poster_path": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+    "backdrop_path": "/wXsQvli6tWqF0d1.jpg"
+  },
+  {
+    "id": 372058,
+    "title": "Your Name.",
+    "release_year": 2016,
+    "genres": [
+      "Animation",
+      "Romance",
+      "Drama"
+    ],
+    "director": "Makoto Shinkai",
+    "cast": [
+      "Ryunosuke Kamiki",
+      "Mone Kamishiraishi",
+      "Ryo Narita",
+      "Aoi Yuki"
+    ],
+    "keywords": [
+      "body swapping",
+      "comet tia mat",
+      "tokyo and rural village",
+      "red string of fate",
+      "time travel memory",
+      "anime"
+    ],
+    "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives in rural Itomori and bustling Tokyo. But suddenly, they begin to swap bodies unpredictably when they dream, forging a profound connection that transcends time and space.",
+    "vote_average": 8.5,
+    "vote_count": 11100,
+    "runtime": 106,
+    "tagline": "I'm searching for you, whom I can't even remember.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/dIWwZWGBbxPWI87u76o.jpg"
+  },
+  {
+    "id": 493529,
+    "title": "Dungeons & Dragons: Honor Among Thieves",
+    "release_year": 2023,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Comedy"
+    ],
+    "director": "Jonathan Goldstein, John Francis Daley",
+    "cast": [
+      "Chris Pine",
+      "Michelle Rodriguez",
+      "Regé-Jean Page",
+      "Hugh Grant"
+    ],
+    "keywords": [
+      "tabletop rpg",
+      "bard",
+      "heist",
+      "red wizards of thay",
+      "mimic",
+      "owlbear",
+      "relic",
+      "party of adventurers"
+    ],
+    "overview": "A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people in the vibrant fantasy realm of the Forgotten Realms.",
+    "vote_average": 7.4,
+    "vote_count": 3400,
+    "runtime": 134,
+    "tagline": "No experience necessary.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/0/03/Theatrical_poster_for_Dungeons_and_Dragons%2C_Honor_Among_Thieves.jpg",
+    "backdrop_path": "/9n2tJBplPbg.jpg"
+  },
+  {
+    "id": 1891,
+    "title": "Star Wars: The Empire Strikes Back",
+    "release_year": 1980,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "director": "Irvin Kershner",
+    "cast": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher",
+      "Billy Dee Williams"
+    ],
+    "keywords": [
+      "darth vader",
+      "luke skywalker",
+      "yoda jedi training",
+      "cloud city bespin",
+      "i am your father",
+      "hoth ice planet",
+      "lightsaber duel"
+    ],
+    "overview": "The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke and turn him to the dark side.",
+    "vote_average": 8.4,
+    "vote_count": 16400,
+    "runtime": 124,
+    "tagline": "The Adventure Continues...",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/3/3f/The_Empire_Strikes_Back_%281980_film%29.jpg",
+    "backdrop_path": "/aJCtkxLLR.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Star Wars: A New Hope",
+    "release_year": 1977,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "director": "George Lucas",
+    "cast": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher",
+      "Alec Guinness"
+    ],
+    "keywords": [
+      "death star",
+      "luke skywalker",
+      "obi-wan kenobi",
+      "princess leia",
+      "the force",
+      "tatooine",
+      "millennium falcon"
+    ],
+    "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team up with the loveable robot duo to rescue the beautiful princess and restore peace and justice.",
+    "vote_average": 8.2,
+    "vote_count": 20100,
+    "runtime": 121,
+    "tagline": "A long time ago in a galaxy far, far away...",
+    "poster_path": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+    "backdrop_path": "/zqkmAX7g.jpg"
+  },
+  {
+    "id": 85,
+    "title": "Raiders of the Lost Ark",
+    "release_year": 1981,
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "director": "Steven Spielberg",
+    "cast": [
+      "Harrison Ford",
+      "Karen Allen",
+      "Paul Freeman",
+      "John Rhys-Davies"
+    ],
+    "keywords": [
+      "indiana jones",
+      "archaeologist",
+      "ark of the covenant",
+      "bullwhip",
+      "giant rolling boulder",
+      "egyptian tomb",
+      "nazis"
+    ],
+    "overview": "When Dr. Indiana Jones – the tweed-suited professor who just happens to be a celebrated globe-trotting archaeologist – is hired by government agents to find the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
+    "vote_average": 7.9,
+    "vote_count": 12000,
+    "runtime": 115,
+    "tagline": "Indiana Jones - the new hero from the creators of JAWS and STAR WARS.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/4/4c/Raiders_of_the_Lost_Ark.jpg",
+    "backdrop_path": "/b4uY9q.jpg"
+  },
+  {
+    "id": 329,
+    "title": "Jurassic Park",
+    "release_year": 1993,
+    "genres": [
+      "Adventure",
+      "Science Fiction"
+    ],
+    "director": "Steven Spielberg",
+    "cast": [
+      "Sam Neill",
+      "Laura Dern",
+      "Jeff Goldblum",
+      "Richard Attenborough"
+    ],
+    "keywords": [
+      "cloned dinosaurs",
+      "t-rex",
+      "velociraptor",
+      "isla nublar theme park",
+      "dna amber",
+      "chaos theory",
+      "life finds a way"
+    ],
+    "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening to the public, he invites a select group to experience the park and help calm anxious investors. However, a park employee attempts to steal dinosaur embryos, critical security systems are shut down and it now becomes a race for survival with dinosaurs roaming freely over the island.",
+    "vote_average": 7.9,
+    "vote_count": 16000,
+    "runtime": 127,
+    "tagline": "An adventure 65 million years in the making.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/e/e7/Jurassic_Park_poster.jpg",
+    "backdrop_path": "/67p1T7B.jpg"
+  },
+  {
+    "id": 435,
+    "title": "The Day After Tomorrow",
+    "release_year": 2004,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "director": "Roland Emmerich",
+    "cast": [
+      "Dennis Quaid",
+      "Jake Gyllenhaal",
+      "Emmy Rossum",
+      "Dash Mihok"
+    ],
+    "keywords": [
+      "climate catastrophe",
+      "global warming",
+      "ice age",
+      "superstorm",
+      "new york freeze",
+      "father rescues son"
+    ],
+    "overview": "Paleoclimatologist Jack Hall must race through frozen temperatures across the eastern United States to reach his son Sam, who is trapped in a flash-frozen New York City library after abrupt catastrophic climate change plunges the planet into a new Ice Age.",
+    "vote_average": 6.5,
+    "vote_count": 8200,
+    "runtime": 124,
+    "tagline": "Where will you be?",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/5/58/The_Day_After_Tomorrow_movie.jpg",
+    "backdrop_path": "/y2m0p7.jpg"
+  },
+  {
+    "id": 286217,
+    "title": "The Martian",
+    "release_year": 2015,
+    "genres": [
+      "Drama",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "director": "Ridley Scott",
+    "cast": [
+      "Matt Damon",
+      "Jessica Chastain",
+      "Kristen Wiig",
+      "Jeff Daniels"
+    ],
+    "keywords": [
+      "stranded on mars",
+      "botanist",
+      "science the shit out of this",
+      "nasa rescue",
+      "potatoes on mars",
+      "space survival",
+      "rover"
+    ],
+    "overview": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
+    "vote_average": 8.0,
+    "vote_count": 19400,
+    "runtime": 144,
+    "tagline": "Bring Him Home.",
+    "poster_path": "/5BHuvQ6p9kfc091Z8RiFNhCwL4b.jpg",
+    "backdrop_path": "/3Lq8yG1m.jpg"
+  },
+  {
+    "id": 10528,
+    "title": "Sherlock Holmes",
+    "release_year": 2009,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime",
+      "Mystery"
+    ],
+    "director": "Guy Ritchie",
+    "cast": [
+      "Robert Downey Jr.",
+      "Jude Law",
+      "Rachel McAdams",
+      "Mark Strong"
+    ],
+    "keywords": [
+      "baker street detective",
+      "dr john watson",
+      "deductive reasoning",
+      "victorian london",
+      "blackwood occult plot",
+      "bare knuckle boxing"
+    ],
+    "overview": "Eccentric consulting detective Sherlock Holmes and his stalwart partner Dr. John Watson battle a mystic antagonist whose plot threatens all of England.",
+    "vote_average": 7.2,
+    "vote_count": 13900,
+    "runtime": 128,
+    "tagline": "Nothing escapes him.",
+    "poster_path": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e0/Sherlock_holmes_ver5.jpg/330px-Sherlock_holmes_ver5.jpg",
+    "backdrop_path": "/7k5s8w.jpg"
+  },
+  {
+    "id": 138843,
+    "title": "The Conjuring",
+    "release_year": 2013,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "director": "James Wan",
+    "cast": [
+      "Patrick Wilson",
+      "Vera Farmiga",
+      "Ron Livingston",
+      "Lili Taylor"
+    ],
+    "keywords": [
+      "demonologist",
+      "ed and lorraine warren",
+      "haunted farmhouse",
+      "exorcism",
+      "doll annabelle",
+      "paranormal investigation"
+    ],
+    "overview": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse.",
+    "vote_average": 7.5,
+    "vote_count": 11300,
+    "runtime": 112,
+    "tagline": "Based on the true case files of the Warrens.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/8/8c/The_Conjuring_poster.jpg",
+    "backdrop_path": "/q3m8y.jpg"
+  },
+  {
+    "id": 447332,
+    "title": "A Quiet Place",
+    "release_year": 2018,
+    "genres": [
+      "Horror",
+      "Drama",
+      "Science Fiction"
+    ],
+    "director": "John Krasinski",
+    "cast": [
+      "Emily Blunt",
+      "John Krasinski",
+      "Millicent Simmonds",
+      "Noah Jupe"
+    ],
+    "keywords": [
+      "blind sound-hunting monsters",
+      "post-apocalyptic farm",
+      "sign language",
+      "silence for survival",
+      "hearing aid frequency",
+      "family"
+    ],
+    "overview": "A family is forced to live in silence while hiding from monsters with ultra-sensitive hearing who hunt by sound.",
+    "vote_average": 7.4,
+    "vote_count": 13800,
+    "runtime": 90,
+    "tagline": "If they hear you, they hunt you.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/roYyPi.jpg"
+  },
+  {
+    "id": 419430,
+    "title": "Get Out",
+    "release_year": 2017,
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Horror"
+    ],
+    "director": "Jordan Peele",
+    "cast": [
+      "Daniel Kaluuya",
+      "Allison Williams",
+      "Bradley Whitford",
+      "Catherine Keener"
+    ],
+    "keywords": [
+      "sunken place",
+      "social horror",
+      "hypnosis teacup",
+      "upstate estate",
+      "body snatching",
+      "racial tension",
+      "escape"
+    ],
+    "overview": "Chris and his girlfriend Rose go upstate to visit her parents for a weekend getaway. At first, Chris reads the family's overly accommodating behavior as nervous attempts to deal with their daughter's interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.",
+    "vote_average": 7.6,
+    "vote_count": 16900,
+    "runtime": 104,
+    "tagline": "Just because you're invited, doesn't mean you're welcome.",
+    "poster_path": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+    "backdrop_path": "/m11MR0.jpg"
+  },
+  {
+    "id": 694,
+    "title": "The Shining",
+    "release_year": 1980,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "director": "Stanley Kubrick",
+    "cast": [
+      "Jack Nicholson",
+      "Shelley Duvall",
+      "Danny Lloyd",
+      "Scatman Crothers"
+    ],
+    "keywords": [
+      "overlook hotel",
+      "cabin fever",
+      "here's johnny",
+      "redrum",
+      "twin girls",
+      "hedge maze",
+      "typewriter",
+      "haunted"
+    ],
+    "overview": "Jack Torrance accepts a caretaker job at the isolated Overlook Hotel in Colorado, hoping to cure his writer's block. He settles in along with his wife Wendy and his son Danny, who is plagued by psychic premonitions. As Jack's writing goes nowhere and Danny's visions become more disturbing, Jack discovers the hotel's dark secrets and begins an unraveling into homicidal mania.",
+    "vote_average": 8.2,
+    "vote_count": 17400,
+    "runtime": 144,
+    "tagline": "A masterpiece of modern horror.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/1/1d/The_Shining_%281980%29_U.K._release_poster_-_The_tide_of_terror_that_swept_America_IS_HERE.jpg",
+    "backdrop_path": "/mmd1HNu.jpg"
+  },
+  {
+    "id": 497,
+    "title": "The Green Mile",
+    "release_year": 1999,
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Crime"
+    ],
+    "director": "Frank Darabont",
+    "cast": [
+      "Tom Hanks",
+      "David Morse",
+      "Michael Clarke Duncan",
+      "Bonnie Hunt"
+    ],
+    "keywords": [
+      "death row guard",
+      "miraculous healing",
+      "john coffey",
+      "supernatural gift",
+      "wrongful execution",
+      "mouse mr jingles"
+    ],
+    "overview": "A supernatural tale for the ages set on death row in a Southern prison, where gentle giant John Coffey possesses a mysterious, miraculous gift of healing.",
+    "vote_average": 8.5,
+    "vote_count": 17200,
+    "runtime": 189,
+    "tagline": "Miracles do happen in the most unexpected places.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/l6hQWHNs.jpg"
+  },
+  {
+    "id": 14,
+    "title": "American Beauty",
+    "release_year": 1999,
+    "genres": [
+      "Drama"
+    ],
+    "director": "Sam Mendes",
+    "cast": [
+      "Kevin Spacey",
+      "Annette Bening",
+      "Thora Birch",
+      "Wes Bentley"
+    ],
+    "keywords": [
+      "suburban crisis",
+      "rose petals",
+      "midlife rebellion",
+      "redemption",
+      "plastic bag video",
+      "satire"
+    ],
+    "overview": "Lester Burnham, a depressed suburban father in his 40s, decides to turn his mundane life around after becoming infatuated with his teenage daughter's attractive best friend.",
+    "vote_average": 8.0,
+    "vote_count": 11700,
+    "runtime": 122,
+    "tagline": "...look closer.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/9/9a/American_Beauty_1999_film_poster.jpg",
+    "backdrop_path": "/b4uY9q.jpg"
+  },
+  {
+    "id": 106646,
+    "title": "The Wolf of Wall Street",
+    "release_year": 2013,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Comedy"
+    ],
+    "director": "Martin Scorsese",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Jonah Hill",
+      "Margot Robbie",
+      "Matthew McConaughey"
+    ],
+    "keywords": [
+      "jordan belfort",
+      "stockbroker penny stocks",
+      "stratton oakmont",
+      "excess wealth",
+      "fbi fraud",
+      "quaa-ludes",
+      "greed"
+    ],
+    "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case that involves corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+    "vote_average": 8.0,
+    "vote_count": 23400,
+    "runtime": 180,
+    "tagline": "Earn. Spend. Party.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/cWq5n.jpg"
+  },
+  {
+    "id": 207,
+    "title": "Dead Poets Society",
+    "release_year": 1989,
+    "genres": [
+      "Drama"
+    ],
+    "director": "Peter Weir",
+    "cast": [
+      "Robin Williams",
+      "Robert Sean Leonard",
+      "Ethan Hawke",
+      "Josh Charles"
+    ],
+    "keywords": [
+      "john keating",
+      "carpe diem",
+      "boarding school boys",
+      "poetry reading",
+      "o captain my captain",
+      "individuality",
+      "rebellion"
+    ],
+    "overview": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to seize the day, love poetry, and discover their true identities.",
+    "vote_average": 8.3,
+    "vote_count": 11200,
+    "runtime": 128,
+    "tagline": "He was their inspiration. He made their lives extraordinary.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/8/86/Dead_poets_society.png",
+    "backdrop_path": "/9vK3.jpg"
+  },
+  {
+    "id": 38,
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "release_year": 2004,
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Romance"
+    ],
+    "director": "Michel Gondry",
+    "cast": [
+      "Jim Carrey",
+      "Kate Winslet",
+      "Kirsten Dunst",
+      "Mark Ruffalo"
+    ],
+    "keywords": [
+      "memory erasure",
+      "lacuna inc",
+      "joel and clementine",
+      "montauk beach",
+      "subconscious chase",
+      "heartbreak",
+      "fate"
+    ],
+    "overview": "Joel Barish, heartbroken that his girlfriend Clementine underwent a surgical procedure to erase him from her memory, decides to undergo the same process. However, as his memories of her begin to vanish, Joel realizes he still loves her and may be too late to correct his mistake.",
+    "vote_average": 8.1,
+    "vote_count": 14700,
+    "runtime": 108,
+    "tagline": "You can erase someone from your mind. Getting them out of your heart is another story.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/a/a4/Eternal_Sunshine_of_the_Spotless_Mind.png",
+    "backdrop_path": "/7b1.jpg"
+  },
+  {
+    "id": 150540,
+    "title": "Inside Out",
+    "release_year": 2015,
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Pete Docter",
+    "cast": [
+      "Amy Poehler",
+      "Phyllis Smith",
+      "Richard Kind",
+      "Bill Hader"
+    ],
+    "keywords": [
+      "human emotions",
+      "joy and sadness",
+      "childhood mind",
+      "headquarters",
+      "core memories",
+      "bing bong",
+      "pixar"
+    ],
+    "overview": "Growing up can be a bumpy road, and it's no exception for Riley, who is uprooted from her Midwest life when her father starts a new job in San Francisco. Like all of us, Riley is guided by her emotions - Joy, Fear, Anger, Disgust and Sadness.",
+    "vote_average": 7.9,
+    "vote_count": 20100,
+    "runtime": 95,
+    "tagline": "Meet the little voices inside your head.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/3Lq8y.jpg"
+  },
+  {
+    "id": 14160,
+    "title": "Up",
+    "release_year": 2009,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Adventure"
+    ],
+    "director": "Pete Docter",
+    "cast": [
+      "Ed Asner",
+      "Christopher Plummer",
+      "Jordan Nagai",
+      "Bob Peterson"
+    ],
+    "keywords": [
+      "flying balloon house",
+      "carl and ellie",
+      "russell wilderness explorer",
+      "paradise falls",
+      "talking dog dug",
+      "grief and adventure"
+    ],
+    "overview": "Carl Fredricksen, a 78-year-old balloon salesman, is about to fulfill a lifelong dream. Tying thousands of balloons to his house, he flies away to the South American wilderness. But curmudgeonly Carl's worst nightmare comes true when he discovers a little boy named Russell is a stowaway aboard the balloon-powered house.",
+    "vote_average": 8.0,
+    "vote_count": 19900,
+    "runtime": 96,
+    "tagline": "Fly away on a balloon-powered journey.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/q3m8y.jpg"
+  },
+  {
+    "id": 269149,
+    "title": "Zootopia",
+    "release_year": 2016,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Comedy"
+    ],
+    "director": "Byron Howard, Rich Moore",
+    "cast": [
+      "Ginnifer Goodwin",
+      "Jason Bateman",
+      "Idris Elba",
+      "Jenny Slate"
+    ],
+    "keywords": [
+      "mammal metropolis",
+      "judy hopps rabbit cop",
+      "nick wilde con fox",
+      "night howler flowers",
+      "predator vs prey prejudice"
+    ],
+    "overview": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
+    "vote_average": 7.7,
+    "vote_count": 16100,
+    "runtime": 108,
+    "tagline": "Welcome to the urban jungle.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/9/96/Zootopia_%28movie_poster%29.jpg",
+    "backdrop_path": "/mhNk.jpg"
+  },
+  {
+    "id": 100402,
+    "title": "Captain America: The Winter Soldier",
+    "release_year": 2014,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "director": "Anthony Russo, Joe Russo",
+    "cast": [
+      "Chris Evans",
+      "Scarlett Johansson",
+      "Sebastian Stan",
+      "Anthony Mackie"
+    ],
+    "keywords": [
+      "hydra infiltration",
+      "winter soldier bucky",
+      "shield conspiracy",
+      "black widow",
+      "elevator fight",
+      "surveillance state"
+    ],
+    "overview": "After the cataclysmic events in New York with The Avengers, Steve Rogers, aka Captain America is living quietly in Washington, D.C. and trying to adjust to the modern world. But when a S.H.I.E.L.D. colleague comes under attack, Steve becomes enmeshed in a web of intrigue that threatens to put the world at risk.",
+    "vote_average": 7.7,
+    "vote_count": 18200,
+    "runtime": 136,
+    "tagline": "In heroes we trust.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/y2m0p7.jpg"
+  },
+  {
+    "id": 284054,
+    "title": "Black Panther",
+    "release_year": 2018,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "director": "Ryan Coogler",
+    "cast": [
+      "Chadwick Boseman",
+      "Michael B. Jordan",
+      "Lupita Nyong'o",
+      "Danai Gurira"
+    ],
+    "keywords": [
+      "wakanda",
+      "vibranium",
+      "king t'challa",
+      "killmonger",
+      "heart-shaped herb",
+      "afrofuturism",
+      "isolationism vs aid"
+    ],
+    "overview": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country before facing Erik Killmonger.",
+    "vote_average": 7.4,
+    "vote_count": 21800,
+    "runtime": 134,
+    "tagline": "Long live the king.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/b6ZJZ7.jpg"
+  },
+  {
+    "id": 283995,
+    "title": "Guardians of the Galaxy",
+    "release_year": 2014,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "director": "James Gunn",
+    "cast": [
+      "Chris Pratt",
+      "Zoe Saldaña",
+      "Dave Bautista",
+      "Vin Diesel"
+    ],
+    "keywords": [
+      "star-lord peter quill",
+      "talking raccoon rocket",
+      "groot",
+      "orb infinity stone",
+      "awesome mix vol 1",
+      "space outlaws"
+    ],
+    "overview": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
+    "vote_average": 7.9,
+    "vote_count": 27400,
+    "runtime": 121,
+    "tagline": "All heroes gotta start somewhere.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/i3Y.jpg"
+  },
+  {
+    "id": 12445,
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "release_year": 2011,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "director": "David Yates",
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson",
+      "Ralph Fiennes"
+    ],
+    "keywords": [
+      "battle of hogwarts",
+      "voldemort horcruxes",
+      "elder wand",
+      "severus snape memory",
+      "chosen one",
+      "magic battle"
+    ],
+    "overview": "Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills.",
+    "vote_average": 8.1,
+    "vote_count": 20000,
+    "runtime": 130,
+    "tagline": "It all ends here.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/b1.jpg"
+  },
+  {
+    "id": 19995,
+    "title": "Avatar",
+    "release_year": 2009,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "director": "James Cameron",
+    "cast": [
+      "Sam Worthington",
+      "Zoe Saldaña",
+      "Sigourney Weaver",
+      "Stephen Lang"
+    ],
+    "keywords": [
+      "pandora moon",
+      "na'vi people",
+      "bioluminescence",
+      "jake sully avatar",
+      "unobtainium mining",
+      "tree of souls",
+      "banshee"
+    ],
+    "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+    "vote_average": 7.6,
+    "vote_count": 31200,
+    "runtime": 162,
+    "tagline": "Enter the World of Pandora.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/d/d6/Avatar_%282009_film%29_poster.jpg",
+    "backdrop_path": "/vL5LR.jpg"
+  },
+  {
+    "id": 76600,
+    "title": "Avatar: The Way of Water",
+    "release_year": 2022,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "director": "James Cameron",
+    "cast": [
+      "Sam Worthington",
+      "Zoe Saldaña",
+      "Sigourney Weaver",
+      "Stephen Lang"
+    ],
+    "keywords": [
+      "metkayina reef clan",
+      "ocean pandora",
+      "tulkun whale",
+      "family protection",
+      "underwater diving",
+      "colonization"
+    ],
+    "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family, the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+    "vote_average": 7.6,
+    "vote_count": 11500,
+    "runtime": 192,
+    "tagline": "Return to Pandora.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/5/54/Avatar_The_Way_of_Water_poster.jpg",
+    "backdrop_path": "/s16H6.jpg"
+  },
+  {
+    "id": 181808,
+    "title": "Star Wars: The Last Jedi",
+    "release_year": 2017,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
+    "director": "Rian Johnson",
+    "cast": [
+      "Mark Hamill",
+      "Carrie Fisher",
+      "Daisy Ridley",
+      "Adam Driver"
+    ],
+    "keywords": [
+      "luke skywalker ach-to",
+      "rey force training",
+      "kylo ren supreme leader",
+      "crait salt battle",
+      "jedi legacy"
+    ],
+    "overview": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares for battle with the First Order.",
+    "vote_average": 6.8,
+    "vote_count": 15000,
+    "runtime": 152,
+    "tagline": "The saga continues.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/c.jpg"
+  },
+  {
+    "id": 671,
+    "title": "Harry Potter and the Philosopher's Stone",
+    "release_year": 2001,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": "Chris Columbus",
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson",
+      "Richard Harris"
+    ],
+    "keywords": [
+      "hogwarts school of witchcraft",
+      "sorting hat",
+      "quidditch",
+      "mirror of erised",
+      "sorcerer's stone",
+      "diagon alley"
+    ],
+    "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard with a place at Hogwarts School of Witchcraft and Wizardry.",
+    "vote_average": 7.9,
+    "vote_count": 26400,
+    "runtime": 152,
+    "tagline": "Let the Magic Begin.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/h.jpg"
+  },
+  {
+    "id": 673,
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "release_year": 2004,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": "Alfonso Cuarón",
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson",
+      "Gary Oldman"
+    ],
+    "keywords": [
+      "sirius black",
+      "dementors",
+      "time turner",
+      "marauder's map",
+      "remus lupin werewolf",
+      "buckbeak hippogriff"
+    ],
+    "overview": "Year three at Hogwarts means new fun and challenges as Harry learns the delicate art of approaching a Hippogriff, transforming shape-shifting Boggarts into hilarity and even turning back time, while facing soul-sucking Dementors and escaped prisoner Sirius Black.",
+    "vote_average": 8.0,
+    "vote_count": 21000,
+    "runtime": 141,
+    "tagline": "Something wicked this way comes.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/1/18/Harry_Potter_and_the_Prisoner_of_Azkaban_film_poster.jpg",
+    "backdrop_path": "/ob.jpg"
+  },
+  {
+    "id": 140607,
+    "title": "Star Wars: The Force Awakens",
+    "release_year": 2015,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "director": "J.J. Abrams",
+    "cast": [
+      "Daisy Ridley",
+      "John Boyega",
+      "Oscar Isaac",
+      "Adam Driver"
+    ],
+    "keywords": [
+      "rey scavenger jakku",
+      "finn stormtrooper",
+      "kylo ren",
+      "bb-8 droid",
+      "starkiller base",
+      "han solo return"
+    ],
+    "overview": "Thirty years after the defeat of the Empire, the galaxy faces a new threat in the evil Kylo Ren and the First Order. A defector, a scavenger, and a droid join forces to find the only hope of restoring peace: Luke Skywalker.",
+    "vote_average": 7.3,
+    "vote_count": 19200,
+    "runtime": 138,
+    "tagline": "Every generation has a story.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/nj.jpg"
+  },
+  {
+    "id": 157350,
+    "title": "Gravity",
+    "release_year": 2013,
+    "genres": [
+      "Science Fiction",
+      "Thriller",
+      "Drama"
+    ],
+    "director": "Alfonso Cuarón",
+    "cast": [
+      "Sandra Bullock",
+      "George Clooney",
+      "Ed Harris"
+    ],
+    "keywords": [
+      "spacewalk catastrophe",
+      "debris field chain reaction",
+      "earth orbit",
+      "tether",
+      "dr ryan stone",
+      "survival in space"
+    ],
+    "overview": "Dr. Ryan Stone, a medical engineer on her first shuttle mission, and veteran astronaut Matt Kowalsky are struck by space debris during a routine spacewalk. The shuttle is destroyed, leaving Stone and Kowalsky completely alone in the silent, terrifying abyss of space.",
+    "vote_average": 7.4,
+    "vote_count": 15000,
+    "runtime": 91,
+    "tagline": "Don't let go.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/sp.jpg"
+  },
+  {
+    "id": 437068,
+    "title": "A Star Is Born",
+    "release_year": 2018,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Music"
+    ],
+    "director": "Bradley Cooper",
+    "cast": [
+      "Bradley Cooper",
+      "Lady Gaga",
+      "Sam Elliott",
+      "Andrew Dice Clay"
+    ],
+    "keywords": [
+      "country rock singer",
+      "shallow duet",
+      "rise of pop star",
+      "alcoholism addiction",
+      "tragic romance",
+      "grammy awards"
+    ],
+    "overview": "Seasoned musician Jackson Maine discovers—and falls in love with—struggling artist Ally. She has just about given up on her dream to make it big as a singer—until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.",
+    "vote_average": 7.5,
+    "vote_count": 11800,
+    "runtime": 136,
+    "tagline": "A story as timeless as music.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/3/39/A_Star_is_Born.png",
+    "backdrop_path": "/mu.jpg"
+  },
+  {
+    "id": 398818,
+    "title": "Call Me by Your Name",
+    "release_year": 2017,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "director": "Luca Guadagnino",
+    "cast": [
+      "Timothée Chalamet",
+      "Armie Hammer",
+      "Michael Stuhlbarg",
+      "Amira Casar"
+    ],
+    "keywords": [
+      "italian summer 1983",
+      "elio and oliver",
+      "archaeology villa",
+      "first love",
+      "piano transcriptions",
+      "peach",
+      "father monologues"
+    ],
+    "overview": "In northern Italy in 1983, seventeen-year-old Elio begins a relationship with Oliver, his father's research assistant, with whom he bonds over his emerging sexuality, their Jewish heritage, and the luscious Italian landscape.",
+    "vote_average": 8.1,
+    "vote_count": 11900,
+    "runtime": 132,
+    "tagline": "Is it better to speak or die?",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/i.jpg"
+  },
+  {
+    "id": 9659,
+    "title": "Madagascar",
+    "release_year": 2005,
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy"
+    ],
+    "director": "Eric Darnell, Tom McGrath",
+    "cast": [
+      "Ben Stiller",
+      "Chris Rock",
+      "David Schwimmer",
+      "Jada Pinkett Smith"
+    ],
+    "keywords": [
+      "central park zoo",
+      "alex the lion",
+      "marty the zebra",
+      "lemur king julien",
+      "i like to move it",
+      "shipwrecked animals"
+    ],
+    "overview": "Four Central Park Zoo animals who have spent their lives in blissful captivity unexpectedly find themselves shipped to Africa, getting shipwrecked on the wild and exotic island of Madagascar.",
+    "vote_average": 6.9,
+    "vote_count": 10500,
+    "runtime": 86,
+    "tagline": "Someone's got a zoo loose.",
+    "poster_path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Madagascar_%28centered_orthographic_projection%29.svg/330px-Madagascar_%28centered_orthographic_projection%29.svg.png",
+    "backdrop_path": "/z.jpg"
+  },
+  {
+    "id": 808,
+    "title": "Shrek",
+    "release_year": 2001,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Fantasy",
+      "Family"
+    ],
+    "director": "Andrew Adamson, Vicky Jenson",
+    "cast": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz",
+      "John Lithgow"
+    ],
+    "keywords": [
+      "ogre swamp",
+      "talking donkey",
+      "princess fiona secret",
+      "lord farquaad",
+      "dragon rescue",
+      "all star smash mouth"
+    ],
+    "overview": "It ain't easy bein' green -- especially if you're a likable (sorta) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an affectionate, wise-cracking donkey.",
+    "vote_average": 7.7,
+    "vote_count": 16400,
+    "runtime": 90,
+    "tagline": "The greatest fairy tale never told.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/7/7b/Shrek_%282001_animated_feature_film%29.jpg",
+    "backdrop_path": "/j.jpg"
+  },
+  {
+    "id": 10193,
+    "title": "Toy Story 3",
+    "release_year": 2010,
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy"
+    ],
+    "director": "Lee Unkrich",
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack",
+      "Ned Beatty"
+    ],
+    "keywords": [
+      "sunnyside daycare",
+      "lotso bear",
+      "andy going to college",
+      "incinerator furnace",
+      "woody and buzz farewell",
+      "pixar"
+    ],
+    "overview": "Woody, Buzz, and the rest of Andy's toys are accidentally donated to a daycare center before Andy leaves for college. When the daycare turns out to be a toddler-ruled prison overseen by an embittered strawberry-scented bear, the toys plot a daring escape.",
+    "vote_average": 7.8,
+    "vote_count": 14200,
+    "runtime": 103,
+    "tagline": "No toy gets left behind.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/t.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Finding Nemo",
+    "release_year": 2003,
+    "genres": [
+      "Animation",
+      "Family"
+    ],
+    "director": "Andrew Stanton, Lee Unkrich",
+    "cast": [
+      "Albert Brooks",
+      "Ellen DeGeneres",
+      "Alexander Gould",
+      "Willem Dafoe"
+    ],
+    "keywords": [
+      "clownfish father marlin",
+      "sydney dentist aquarium",
+      "dory short term memory",
+      "just keep swimming",
+      "sharks anonymous",
+      "great barrier reef"
+    ],
+    "overview": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish named Dory to bring Nemo home.",
+    "vote_average": 7.8,
+    "vote_count": 18800,
+    "runtime": 100,
+    "tagline": "There are 3.7 trillion fish in the ocean. They're looking for one.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg",
+    "backdrop_path": "/f.jpg"
+  },
+  {
+    "id": 62,
+    "title": "2001: A Space Odyssey",
+    "release_year": 1968,
+    "genres": [
+      "Science Fiction",
+      "Mystery",
+      "Adventure"
+    ],
+    "director": "Stanley Kubrick",
+    "cast": [
+      "Keir Dullea",
+      "Gary Lockwood",
+      "William Sylvester",
+      "Douglas Rain"
+    ],
+    "keywords": [
+      "black monolith",
+      "hal 9000 ai mutiny",
+      "jupiter mission",
+      "stargate star child",
+      "dawn of man",
+      "waltz of the blue danube"
+    ],
+    "overview": "Humanity finds a mysterious, obviously artificial object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest to Jupiter to uncover its secrets.",
+    "vote_average": 8.1,
+    "vote_count": 11000,
+    "runtime": 149,
+    "tagline": "An epic drama of adventure and exploration.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/80.jpg"
+  },
+  {
+    "id": 348,
+    "title": "Alien",
+    "release_year": 1979,
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ],
+    "director": "Ridley Scott",
+    "cast": [
+      "Sigourney Weaver",
+      "Tom Skerritt",
+      "John Hurt",
+      "Ian Holm"
+    ],
+    "keywords": [
+      "xenomorph",
+      "nostromo spaceship",
+      "chestburster",
+      "ellen ripley",
+      "facehugger",
+      "weyland yutani android",
+      "in space no one can hear you scream"
+    ],
+    "overview": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When three crew members investigate the source of the signal, they discover a hive of bizarre alien eggs, setting off a horrific survival struggle against an apex extraterrestrial organism.",
+    "vote_average": 8.1,
+    "vote_count": 14100,
+    "runtime": 117,
+    "tagline": "In space no one can hear you scream.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/w.jpg"
+  },
+  {
+    "id": 679,
+    "title": "Aliens",
+    "release_year": 1986,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Horror"
+    ],
+    "director": "James Cameron",
+    "cast": [
+      "Sigourney Weaver",
+      "Michael Biehn",
+      "Carrie Henn",
+      "Paul Reiser"
+    ],
+    "keywords": [
+      "colonial marines",
+      "alien queen",
+      "hadley's hope colony",
+      "flamethrower power loader",
+      "get away from her you bitch",
+      "xenomorph hive"
+    ],
+    "overview": "When LV-426 colony communication ceases, Ripley returns with a unit of starship troopers to battle an entire horde of alien monsters, accompanied by an orphaned girl she vows to protect.",
+    "vote_average": 7.9,
+    "vote_count": 9200,
+    "runtime": 137,
+    "tagline": "This time it's war.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/f/fb/Aliens_poster.jpg",
+    "backdrop_path": "/k.jpg"
+  },
+  {
+    "id": 110,
+    "title": "Three Colours: Red",
+    "release_year": 1994,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "director": "Krzysztof Kieślowski",
+    "cast": [
+      "Irène Jacob",
+      "Jean-Louis Trintignant",
+      "Frédérique Feder",
+      "Jean-Pierre Lorit"
+    ],
+    "keywords": [
+      "geneva",
+      "fraternity",
+      "retired judge eavesdropping",
+      "runaway dog",
+      "synchronicity",
+      "fate connection"
+    ],
+    "overview": "A young model in Geneva discovers her neighbor, a retired judge, eavesdrops on his neighbors' telephone conversations. An unusual bond forms between them exploring the mysterious ties of fate and fraternity.",
+    "vote_average": 8.0,
+    "vote_count": 1300,
+    "runtime": 99,
+    "tagline": "The final chapter of the celebrated trilogy.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/p.jpg"
+  },
+  {
+    "id": 100,
+    "title": "Lock, Stock and Two Smoking Barrels",
+    "release_year": 1998,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "director": "Guy Ritchie",
+    "cast": [
+      "Jason Flemyng",
+      "Dexter Fletcher",
+      "Nick Moran",
+      "Jason Statham"
+    ],
+    "keywords": [
+      "east end london",
+      "card game debt",
+      "antique shotguns",
+      "cannabis growers",
+      "overlapping heists",
+      "hatchet harry"
+    ],
+    "overview": "A botched card game in London triggers four friends, weed growers, hard gangsters, loan sharks and debt collectors to collide in a series of comedic, violent misunderstandings.",
+    "vote_average": 8.1,
+    "vote_count": 6300,
+    "runtime": 107,
+    "tagline": "A Disgrace to Criminals Everywhere.",
+    "poster_path": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e9/Lock%2C_Stock_and_Two_Smoking_Barrels_2.jpg/330px-Lock%2C_Stock_and_Two_Smoking_Barrels_2.jpg",
+    "backdrop_path": "/u.jpg"
+  },
+  {
+    "id": 107,
+    "title": "Snatch",
+    "release_year": 2000,
+    "genres": [
+      "Crime",
+      "Comedy"
+    ],
+    "director": "Guy Ritchie",
+    "cast": [
+      "Jason Statham",
+      "Brad Pitt",
+      "Benicio del Toro",
+      "Vinnie Jones"
+    ],
+    "keywords": [
+      "86 carat diamond",
+      "bare knuckle gypsy boxer mickey",
+      "brick top pig farm",
+      "illegal boxing",
+      "london underworld"
+    ],
+    "overview": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+    "vote_average": 7.8,
+    "vote_count": 8700,
+    "runtime": 104,
+    "tagline": "Stealin' stones and breakin' bones.",
+    "poster_path": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a7/Snatch_ver4.jpg/330px-Snatch_ver4.jpg",
+    "backdrop_path": "/6.jpg"
+  },
+  {
+    "id": 153,
+    "title": "Lost in Translation",
+    "release_year": 2003,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Comedy"
+    ],
+    "director": "Sofia Coppola",
+    "cast": [
+      "Bill Murray",
+      "Scarlett Johansson",
+      "Giovanni Ribisi",
+      "Anna Faris"
+    ],
+    "keywords": [
+      "tokyo park hyatt hotel",
+      "whisky commercial",
+      "insomnia jetlag",
+      "platonic connection",
+      "cultural isolation",
+      "whisper at the end"
+    ],
+    "overview": "Two lost souls visiting Tokyo -- the neglected young wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd bond and solace in each other's company.",
+    "vote_average": 7.7,
+    "vote_count": 7100,
+    "runtime": 102,
+    "tagline": "Everyone wants to be found.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/8.jpg"
+  },
+  {
+    "id": 489,
+    "title": "Good Will Hunting",
+    "release_year": 1997,
+    "genres": [
+      "Drama"
+    ],
+    "director": "Gus Van Sant",
+    "cast": [
+      "Matt Damon",
+      "Robin Williams",
+      "Ben Affleck",
+      "Stellan Skarsgård"
+    ],
+    "keywords": [
+      "mit janitor genius",
+      "math proof",
+      "south boston",
+      "therapist sean maguire",
+      "it's not your fault",
+      "trauma healing",
+      "harvard"
+    ],
+    "overview": "Will Hunting, a janitor at MIT, has a gift for mathematics, but needs help from a psychologist to find direction in his life and face the deep emotional scars of his past.",
+    "vote_average": 8.1,
+    "vote_count": 11800,
+    "runtime": 126,
+    "tagline": "Some people can never believe in themselves, until someone believes in them.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/5/52/Good_Will_Hunting.png",
+    "backdrop_path": "/c.jpg"
+  },
+  {
+    "id": 500,
+    "title": "Reservoir Dogs",
+    "release_year": 1992,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "director": "Quentin Tarantino",
+    "cast": [
+      "Harvey Keitel",
+      "Tim Roth",
+      "Michael Madsen",
+      "Chris Penn"
+    ],
+    "keywords": [
+      "diamond heist gone wrong",
+      "color pseudonyms",
+      "warehouse standoff",
+      "police rat",
+      "mr blonde ear slice",
+      "like a virgin opening"
+    ],
+    "overview": "A botched diamond heist leads six criminals with color aliases to suspect that one of them is an undercover cop, spiraling into paranoia, betrayal, and violence in an empty warehouse.",
+    "vote_average": 8.1,
+    "vote_count": 13900,
+    "runtime": 99,
+    "tagline": "Every dog has his day.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/0/01/Reservoir_Dogs.png",
+    "backdrop_path": "/9.jpg"
+  },
+  {
+    "id": 805,
+    "title": "Rosemary's Baby",
+    "release_year": 1968,
+    "genres": [
+      "Horror",
+      "Drama",
+      "Mystery"
+    ],
+    "director": "Roman Polanski",
+    "cast": [
+      "Mia Farrow",
+      "John Cassavetes",
+      "Ruth Gordon",
+      "Sidney Blackmer"
+    ],
+    "keywords": [
+      "dakota apartment",
+      "satanic coven neighbors",
+      "paranoid pregnancy",
+      "tannis root charm",
+      "occult pact"
+    ],
+    "overview": "A young couple moves into an infamous, historic New York apartment building, only to find themselves surrounded by elderly neighbors with a chilling, demonic interest in their unborn child.",
+    "vote_average": 7.8,
+    "vote_count": 3600,
+    "runtime": 137,
+    "tagline": "Pray for Rosemary's baby.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/2.jpg"
+  },
+  {
+    "id": 142,
+    "title": "Brokeback Mountain",
+    "release_year": 2005,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "director": "Ang Lee",
+    "cast": [
+      "Heath Ledger",
+      "Jake Gyllenhaal",
+      "Michelle Williams",
+      "Anne Hathaway"
+    ],
+    "keywords": [
+      "wyoming herders",
+      "secret romance",
+      "ennis and jack",
+      "sheep ranch",
+      "closeted love",
+      "tragedy"
+    ],
+    "overview": "Rodeo cowboy Jack Twist and ranch hand Ennis Del Mar find themselves on a summer job tending sheep on Brokeback Mountain. Unexpectedly, a deep and lifelong romantic relationship sparks between them that spans decades of secrecy.",
+    "vote_average": 7.8,
+    "vote_count": 6400,
+    "runtime": 134,
+    "tagline": "Love is a force of nature.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/a/a1/Brokeback_mountain.jpg",
+    "backdrop_path": "/x.jpg"
+  },
+  {
+    "id": 311,
+    "title": "Once Upon a Time in America",
+    "release_year": 1984,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "director": "Sergio Leone",
+    "cast": [
+      "Robert De Niro",
+      "James Woods",
+      "Elizabeth McGovern",
+      "Joe Pesci"
+    ],
+    "keywords": [
+      "jewish lower east side gang",
+      "prohibition bootlegging",
+      "noodles and max",
+      "decades spanning friendship",
+      "opium den memories"
+    ],
+    "overview": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he must once again confront the ghosts and regrets of his old life.",
+    "vote_average": 8.4,
+    "vote_count": 5200,
+    "runtime": 229,
+    "tagline": "Crime, passion and lust for power.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/c/c2/Once_Upon_a_Time_in_America.png",
+    "backdrop_path": "/h.jpg"
+  },
+  {
+    "id": 205,
+    "title": "Hotel Rwanda",
+    "release_year": 2004,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "director": "Terry George",
+    "cast": [
+      "Don Cheadle",
+      "Sophie Okonedo",
+      "Joaquin Phoenix",
+      "Nick Nolte"
+    ],
+    "keywords": [
+      "rwandan genocide 1994",
+      "hutu and tutsi",
+      "hotel manager paul rusesabagina",
+      "shelter refugees",
+      "humanitarian courage"
+    ],
+    "overview": "Paul Rusesabagina, a hotel manager, houses over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda.",
+    "vote_average": 7.7,
+    "vote_count": 2700,
+    "runtime": 121,
+    "tagline": "When the world closed its eyes, he opened his arms.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/s.jpg"
+  },
+  {
+    "id": 935,
+    "title": "Dr. Strangelove",
+    "release_year": 1964,
+    "genres": [
+      "Comedy",
+      "War"
+    ],
+    "director": "Stanley Kubrick",
+    "cast": [
+      "Peter Sellers",
+      "George C. Scott",
+      "Sterling Hayden",
+      "Keenan Wynn"
+    ],
+    "keywords": [
+      "cold war satire",
+      "war room pentagon",
+      "nuclear doomsday machine",
+      "general ripper fluoridation",
+      "bomb riding slim pickens"
+    ],
+    "overview": "An unhinged American general orders a preemptive nuclear attack on the Soviet Union, while the President, his eccentric advisors, and a manic ex-Nazi scientist struggle to prevent mutual assured destruction.",
+    "vote_average": 8.1,
+    "vote_count": 5300,
+    "runtime": 95,
+    "tagline": "The hot-line suspense comedy.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/v.jpg"
+  },
+  {
+    "id": 975,
+    "title": "Paths of Glory",
+    "release_year": 1957,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "director": "Stanley Kubrick",
+    "cast": [
+      "Kirk Douglas",
+      "Ralph Meeker",
+      "Adolphe Menjou",
+      "George Macready"
+    ],
+    "keywords": [
+      "world war i trenches",
+      "french army",
+      "suicidal assault ant hill",
+      "court martial cowardice",
+      "colonel dax defense"
+    ],
+    "overview": "After a French general orders a suicidal attack on an impregnable German position, three innocent soldiers are chosen at random to be tried and executed for cowardice to cover the high command's catastrophic blunder.",
+    "vote_average": 8.4,
+    "vote_count": 2800,
+    "runtime": 88,
+    "tagline": "It explodes in the trenches of human emotion!",
+    "poster_path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Paths_of_Glory_%281957_poster%29.jpg/330px-Paths_of_Glory_%281957_poster%29.jpg",
+    "backdrop_path": "/j.jpg"
+  },
+  {
+    "id": 101,
+    "title": "Léon: The Professional",
+    "release_year": 1994,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Action"
+    ],
+    "director": "Luc Besson",
+    "cast": [
+      "Jean Reno",
+      "Natalie Portman",
+      "Gary Oldman",
+      "Danny Aiello"
+    ],
+    "keywords": [
+      "hitman cleaner",
+      "mathilda orphan girl",
+      "corrupt dea agent stansfield",
+      "little italy",
+      "potted plant",
+      "assassination apprenticeship"
+    ],
+    "overview": "12-year-old Mathilda is reluctantly taken in by Léon, a professional assassin, after her family is murdered by corrupt DEA agent Norman Stansfield. An unusual bond forms as she becomes his protégée and learns the assassin's trade.",
+    "vote_average": 8.3,
+    "vote_count": 14200,
+    "runtime": 110,
+    "tagline": "You can't stop someone who has nothing to lose.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/0/03/Leon-poster.jpg",
+    "backdrop_path": "/z.jpg"
+  },
+  {
+    "id": 31417,
+    "title": "Incendies",
+    "release_year": 2010,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "War"
+    ],
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Lubna Azabal",
+      "Mélissa Désormeaux-Poulin",
+      "Maxim Gaudette",
+      "Rémy Girard"
+    ],
+    "keywords": [
+      "middle east civil war",
+      "twins journey",
+      "mother's will",
+      "letter to father and brother",
+      "family secret twist",
+      "1+1=1"
+    ],
+    "overview": "Twins Jeanne and Simon travel to the Middle East to fulfill their late mother's last wishes and unravel her tangled, traumatic history during a brutal sectarian conflict.",
+    "vote_average": 8.2,
+    "vote_count": 2600,
+    "runtime": 131,
+    "tagline": "The search began at the opening of their mother's will.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/e.jpg"
+  },
+  {
+    "id": 264644,
+    "title": "Room",
+    "release_year": 2015,
+    "genres": [
+      "Drama"
+    ],
+    "director": "Lenny Abrahamson",
+    "cast": [
+      "Brie Larson",
+      "Jacob Tremblay",
+      "Joan Allen",
+      "William H. Macy"
+    ],
+    "keywords": [
+      "captive mother and son",
+      "escape from shed",
+      "jack's first time in world",
+      "skylight",
+      "trauma recovery",
+      "resilience"
+    ],
+    "overview": "Held captive for years in an enclosed 10-foot space, a young woman and her 5-year-old son Jack gain their freedom, leading the boy to experience the wonders and terrors of the outside world for the very first time.",
+    "vote_average": 8.0,
+    "vote_count": 9200,
+    "runtime": 118,
+    "tagline": "Love knows no boundaries.",
+    "poster_path": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Ateneul_Rom%C3%A2n_-_Sala.jpg/330px-Ateneul_Rom%C3%A2n_-_Sala.jpg",
+    "backdrop_path": "/s.jpg"
+  },
+  {
+    "id": 118340,
+    "title": "Guardians of the Galaxy Vol. 2",
+    "release_year": 2017,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction",
+      "Comedy"
+    ],
+    "director": "James Gunn",
+    "cast": [
+      "Chris Pratt",
+      "Zoe Saldaña",
+      "Dave Bautista",
+      "Michael Rooker"
+    ],
+    "keywords": [
+      "ego the living planet",
+      "yondu mary poppins",
+      "baby groot",
+      "sovereign golden people",
+      "found family",
+      "father and son"
+    ],
+    "overview": "The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father, the celestial entity Ego.",
+    "vote_average": 7.6,
+    "vote_count": 21000,
+    "runtime": 136,
+    "tagline": "Obviously.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/c.jpg"
+  },
+  {
+    "id": 447365,
+    "title": "Guardians of the Galaxy Vol. 3",
+    "release_year": 2023,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "director": "James Gunn",
+    "cast": [
+      "Chris Pratt",
+      "Zoe Saldaña",
+      "Dave Bautista",
+      "Bradley Cooper"
+    ],
+    "keywords": [
+      "rocket raccoon origin",
+      "high evolutionary counter-earth",
+      "adam warlock",
+      "lylla",
+      "guardians farewell",
+      "dog days are over"
+    ],
+    "overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe and protect one of their own in a mission that could lead to the end of the Guardians as we know them.",
+    "vote_average": 8.0,
+    "vote_count": 6200,
+    "runtime": 150,
+    "tagline": "Once more with feeling.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/7/74/Guardians_of_the_Galaxy_Vol._3_poster.jpg",
+    "backdrop_path": "/5Y.jpg"
+  },
+  {
+    "id": 1585,
+    "title": "It's a Wonderful Life",
+    "release_year": 1946,
+    "genres": [
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "director": "Frank Capra",
+    "cast": [
+      "James Stewart",
+      "Donna Reed",
+      "Lionel Barrymore",
+      "Thomas Mitchell"
+    ],
+    "keywords": [
+      "george bailey",
+      "guardian angel clarence",
+      "bedford falls",
+      "what if never born",
+      "bell rings angel wings",
+      "christmas classic"
+    ],
+    "overview": "A desperately frustrated businessman is shown by an angel what the world would have been like if he had never existed.",
+    "vote_average": 8.3,
+    "vote_count": 4200,
+    "runtime": 130,
+    "tagline": "It's a wonderful laugh! It's a wonderful love!",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/f.jpg"
+  },
+  {
+    "id": 99861,
+    "title": "Avengers: Age of Ultron",
+    "release_year": 2015,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "director": "Joss Whedon",
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo",
+      "Chris Hemsworth"
+    ],
+    "keywords": [
+      "artificial intelligence gone rogue",
+      "ultron",
+      "sokovia floating city",
+      "vision creation",
+      "scarlet witch and quicksilver"
+    ],
+    "overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance as the rogue artificial intelligence Ultron emerges.",
+    "vote_average": 7.3,
+    "vote_count": 22400,
+    "runtime": 141,
+    "tagline": "A New Age Has Begun.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/t.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Kill Bill: Vol. 1",
+    "release_year": 2003,
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "director": "Quentin Tarantino",
+    "cast": [
+      "Uma Thurman",
+      "Lucy Liu",
+      "Vivica A. Fox",
+      "Daryl Hannah"
+    ],
+    "keywords": [
+      "the bride beatrix kiddo",
+      "hattori hanzo sword",
+      "deadly viper assassination squad",
+      "crazy 88 showdown",
+      "yellow jumpsuit",
+      "revenge"
+    ],
+    "overview": "An assassin is shot at the altar by her ruthless employer, Bill and other members of their circle. But she survives—and after four years in a coma, wakes with one desire: revenge on those who wronged her.",
+    "vote_average": 8.0,
+    "vote_count": 16900,
+    "runtime": 111,
+    "tagline": "A roaring rampage of revenge.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/w.jpg"
+  },
+  {
+    "id": 393,
+    "title": "Kill Bill: Vol. 2",
+    "release_year": 2004,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "director": "Quentin Tarantino",
+    "cast": [
+      "Uma Thurman",
+      "David Carradine",
+      "Michael Madsen",
+      "Daryl Hannah"
+    ],
+    "keywords": [
+      "five point palm exploding heart",
+      "pai mei kung fu training",
+      "budd buried alive",
+      "bill confrontation",
+      "revenge finale"
+    ],
+    "overview": "The Bride continues her quest of vengeance against her former boss and lover Bill, the reclusive bouncer Budd and the treacherous, one-eyed Elle Driver, leading to the ultimate showdown with Bill himself.",
+    "vote_average": 7.9,
+    "vote_count": 13300,
+    "runtime": 136,
+    "tagline": "The bride is back for the final cut.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/4.jpg"
+  },
+  {
+    "id": 77,
+    "title": "Memento",
+    "release_year": 2000,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Guy Pearce",
+      "Carrie-Anne Moss",
+      "Joe Pantoliano",
+      "Mark Boone Junior"
+    ],
+    "keywords": [
+      "anterograde amnesia",
+      "short-term memory loss",
+      "polaroids and tattoos",
+      "reverse chronological order",
+      "wife murder",
+      "unreliable narrator"
+    ],
+    "overview": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of his life before his injury, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+    "vote_average": 8.2,
+    "vote_count": 14500,
+    "runtime": 113,
+    "tagline": "Some memories are best forgotten.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/c/c7/Memento_poster.jpg",
+    "backdrop_path": "/v.jpg"
+  },
+  {
+    "id": 263115,
+    "title": "Logan",
+    "release_year": 2017,
+    "genres": [
+      "Action",
+      "Drama",
+      "Science Fiction"
+    ],
+    "director": "James Mangold",
+    "cast": [
+      "Hugh Jackman",
+      "Patrick Stewart",
+      "Dafne Keen",
+      "Boyd Holbrook"
+    ],
+    "keywords": [
+      "aging wolverine",
+      "adamantium poisoning",
+      "x-23 laura",
+      "professor x dementia",
+      "transigen reavers",
+      "western road trip",
+      "sacrifice"
+    ],
+    "overview": "In the near future, a weary Logan cares for an ailing Professor X in a hideout on the Mexican border. But Logan's attempts to hide from the world and his legacy are upended when a young mutant arrives, being pursued by dark forces.",
+    "vote_average": 7.8,
+    "vote_count": 18500,
+    "runtime": 137,
+    "tagline": "His time has come.",
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_path": "/g.jpg"
+  },
+  {
+    "id": 146233,
+    "title": "Prisoners",
+    "release_year": 2013,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Crime"
+    ],
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Hugh Jackman",
+      "Jake Gyllenhaal",
+      "Viola Davis",
+      "Paul Dano"
+    ],
+    "keywords": [
+      "kidnapped daughters",
+      "detective loki",
+      "vigilante father",
+      "maze maze necklace",
+      "suburban pennsylvania winter",
+      "morality test"
+    ],
+    "overview": "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts.",
+    "vote_average": 8.1,
+    "vote_count": 11400,
+    "runtime": 153,
+    "tagline": "Every moment matters.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/6/63/Prisoners2013Poster.jpg",
+    "backdrop_path": "/yz.jpg"
+  },
+  {
+    "id": 103,
+    "title": "Taxi Driver",
+    "release_year": 1976,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Martin Scorsese",
+    "cast": [
+      "Robert De Niro",
+      "Jodie Foster",
+      "Cybill Shepherd",
+      "Harvey Keitel"
+    ],
+    "keywords": [
+      "travis bickle",
+      "vietnam veteran insomniac",
+      "new york night taxi",
+      "you talkin' to me",
+      "mohawk mohawk haircut",
+      "vigilante violence"
+    ],
+    "overview": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.",
+    "vote_average": 8.1,
+    "vote_count": 11500,
+    "runtime": 114,
+    "tagline": "On every street in every city, there's a nobody who dreams of being a somebody.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/3/33/Taxi_Driver_%281976_film_poster%29.jpg",
+    "backdrop_path": "/el.jpg"
+  },
+  {
+    "id": 11216,
+    "title": "Cinema Paradiso",
+    "release_year": 1988,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "director": "Giuseppe Tornatore",
+    "cast": [
+      "Philippe Noiret",
+      "Jacques Perrin",
+      "Salvatore Cascio",
+      "Marco Leonardi"
+    ],
+    "keywords": [
+      "sicilian village",
+      "projectionist alfredo",
+      "salvatore toto",
+      "celluloid kisses reel",
+      "ennio morricone score",
+      "love of cinema"
+    ],
+    "overview": "A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist.",
+    "vote_average": 8.4,
+    "vote_count": 4200,
+    "runtime": 155,
+    "tagline": "A celebration of youth, friendship, and the everlasting magic of the movies.",
+    "poster_path": "https://upload.wikimedia.org/wikipedia/en/8/86/CinemaParadiso.jpg",
+    "backdrop_path": "/9.jpg"
+  }
+]

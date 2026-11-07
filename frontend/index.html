@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="referrer" content="no-referrer">
+  <title>CineVerse | NLP Movie Recommendation System</title>
+  <meta name="description" content="Intelligent cinematic movie recommendation engine powered by Natural Language Processing, TF-IDF vectorization, and cosine similarity.">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎬</text></svg>">
+</head>
+<body>
+
+  <!-- Navigation Bar -->
+  <header class="site-header" id="site-header">
+    <div class="container">
+      <div class="nav-inner">
+        <a href="#" class="brand-logo" onclick="window.CineVerse.resetCatalog(); return false;" title="Return to home catalog">
+          <div class="brand-badge">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <polygon points="5 3 19 12 5 21 5 3"></polygon>
+            </svg>
+          </div>
+          <span class="brand-text">Cine<span>Verse</span></span>
+        </a>
+
+        <div class="nav-actions">
+          <div class="nlp-status-pill" id="nlp-status-pill" title="TF-IDF & Cosine Similarity Engine Active">
+            <span class="nlp-pulse-dot"></span>
+            <span>NLP Engine Active</span>
+          </div>
+
+          <button type="button" class="btn-header-info" id="open-stats-btn" onclick="window.CineVerse.openStatsModal()">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="10"></circle>
+              <line x1="12" y1="16" x2="12" y2="12"></line>
+              <line x1="12" y1="8" x2="12.01" y2="8"></line>
+            </svg>
+            <span>Algorithm Specs</span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Section (Flagship Featured Movie) -->
+  <section class="hero-section" id="hero-section">
+    <div class="hero-backdrop-wrapper">
+      <img id="hero-backdrop-img" class="hero-backdrop-img" src="" alt="Featured Movie Backdrop">
+      <div class="hero-gradient-overlay"></div>
+    </div>
+
+    <div class="container">
+      <div class="hero-content">
+        <div class="hero-badge-tag">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">
+            <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+          </svg>
+          <span>Featured Selection</span>
+        </div>
+
+        <h1 class="hero-title" id="hero-title">Loading Featured Film...</h1>
+
+        <div class="hero-meta-row">
+          <span class="meta-rating num-tabular" id="hero-rating">★ 0.0</span>
+          <span class="meta-year num-tabular" id="hero-year">----</span>
+          <span class="meta-bullet">•</span>
+          <span class="meta-runtime num-tabular" id="hero-runtime">-- min</span>
+          <span class="meta-bullet">•</span>
+          <div class="hero-genres-list" id="hero-genres"></div>
+        </div>
+
+        <p class="hero-description" id="hero-overview">
+          Analyzing movie metadata and natural language semantics...
+        </p>
+
+        <div class="hero-actions-row">
+          <button type="button" class="btn-primary" id="hero-recommend-btn">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path>
+              <polyline points="7.5 4.21 12 6.81 16.5 4.21"></polyline>
+              <polyline points="7.5 19.79 7.5 14.6 3 12"></polyline>
+              <polyline points="21 12 16.5 14.6 16.5 19.79"></polyline>
+              <polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline>
+              <line x1="12" y1="22.08" x2="12" y2="12"></line>
+            </svg>
+            <span>Get AI Recommendations</span>
+          </button>
+
+          <button type="button" class="btn-secondary" id="hero-details-btn">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="10"></circle>
+              <line x1="12" y1="16" x2="12" y2="12"></line>
+              <line x1="12" y1="8" x2="12.01" y2="8"></line>
+            </svg>
+            <span>Movie Details</span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Search & NLP Prompt Bar -->
+  <section class="search-section">
+    <div class="container">
+      <div class="search-box-card">
+        <form id="search-form" onsubmit="window.CineVerse.handleSearchSubmit(event)">
+          <div class="search-input-wrapper">
+            <svg class="search-icon-svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="11" cy="11" r="8"></circle>
+              <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+            </svg>
+            <input 
+              type="text" 
+              id="main-search-input" 
+              class="main-search-input" 
+              placeholder="Search movie titles or describe a plot in natural language (e.g. 'space exploration black hole father daughter')..."
+              autocomplete="off"
+            >
+            <div class="search-actions-group">
+              <button type="button" class="btn-clear-search" id="btn-clear-search" onclick="window.CineVerse.clearSearch()" title="Clear query">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <line x1="18" y1="6" x2="6" y2="18"></line>
+                  <line x1="6" y1="6" x2="18" y2="18"></line>
+                </svg>
+              </button>
+              <button type="submit" class="btn-submit-search">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                  <polygon points="5 3 19 12 5 21 5 3"></polygon>
+                </svg>
+                <span>NLP Search</span>
+              </button>
+            </div>
+          </div>
+        </form>
+
+        <!-- NLP Query Chips for Quick Testing -->
+        <div class="nlp-prompt-chips">
+          <span class="chips-label">Try NLP Prompts:</span>
+          <button type="button" class="chip-btn" onclick="window.CineVerse.runNlpPrompt('space exploration wormhole time dilation')">Space Exploration & Wormholes</button>
+          <button type="button" class="chip-btn" onclick="window.CineVerse.runNlpPrompt('dystopian cyberpunk replicant detective future')">Cyberpunk & Dystopia</button>
+          <button type="button" class="chip-btn" onclick="window.CineVerse.runNlpPrompt('mind bending subconscious dream heist')">Mind-Bending Dream Heist</button>
+          <button type="button" class="chip-btn" onclick="window.CineVerse.runNlpPrompt('organized crime mafia family betrayal')">Mafia & Organized Crime</button>
+          <button type="button" class="chip-btn" onclick="window.CineVerse.runNlpPrompt('multiverse parallel dimensions alternate versions')">Multiverse & Dimensions</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- NLP Recommendations Showcase (Active when a movie is selected) -->
+  <section class="recommendations-section" id="recommendations-section">
+    <div class="container">
+      <div class="rec-banner-card">
+        <div class="rec-banner-content">
+          <div class="rec-header-titles">
+            <h2>
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="color: var(--accent-violet);">
+                <path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"></path>
+              </svg>
+              <span>Similar Movie Recommendations for: <span class="rec-target-pill" id="rec-target-title">Interstellar</span></span>
+            </h2>
+            <p id="rec-target-subtitle">Ranked by TF-IDF vector similarity and Cosine Similarity over metadata soups (plot, genres, keywords, director & cast).</p>
+          </div>
+
+          <div class="rec-algo-badge">
+            <span>Algorithm: TF-IDF + Cosine Distance</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Recommendations Cards Grid -->
+      <div class="movies-grid" id="recommendations-grid">
+        <!-- Rendered dynamically -->
+      </div>
+    </div>
+  </section>
+
+  <!-- Movie Discovery Catalog -->
+  <section class="discovery-section" id="discovery-section">
+    <div class="container">
+      <div class="section-top-bar">
+        <div class="section-heading-group">
+          <h2 id="catalog-heading">Explore Movie Catalog</h2>
+          <p id="catalog-subtitle">Select any movie to discover top content-based NLP recommendations.</p>
+        </div>
+
+        <div class="catalog-controls">
+          <div class="sort-select-wrapper">
+            <select id="sort-select" class="sort-select" onchange="window.CineVerse.handleSortChange(this.value)">
+              <option value="popular">Most Popular</option>
+              <option value="rating">Highest Rated</option>
+              <option value="year">Newest First</option>
+              <option value="title">Title (A-Z)</option>
+            </select>
+            <svg class="sort-icon-down" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+          </div>
+        </div>
+      </div>
+
+      <!-- Genre Filter Pills -->
+      <div class="genre-pills-bar" id="genre-pills-bar">
+        <button type="button" class="btn-genre-pill active" data-genre="all" onclick="window.CineVerse.filterGenre('all', this)">All Genres</button>
+        <!-- Populated dynamically from API -->
+      </div>
+
+      <!-- Main Movies Grid -->
+      <div class="movies-grid" id="movies-grid">
+        <!-- Loading skeletons rendered initially -->
+      </div>
+    </div>
+  </section>
+
+  <!-- Movie Detail Modal -->
+  <div class="modal-backdrop" id="movie-modal" onclick="window.CineVerse.handleModalBackdropClick(event)">
+    <div class="modal-card">
+      <button type="button" class="btn-close-modal" onclick="window.CineVerse.closeModal()" title="Close dialog">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="18" y1="6" x2="6" y2="18"></line>
+          <line x1="6" y1="6" x2="18" y2="18"></line>
+        </svg>
+      </button>
+
+      <div class="modal-hero-cover">
+        <img id="modal-backdrop-img" class="modal-backdrop-img" src="" alt="Backdrop">
+        <div class="modal-cover-gradient"></div>
+      </div>
+
+      <div class="modal-body">
+        <div class="modal-header-row">
+          <div class="modal-poster-thumb">
+            <img id="modal-poster-img" src="" alt="Poster">
+          </div>
+
+          <div class="modal-main-details">
+            <h2 class="modal-title" id="modal-title">Movie Title</h2>
+            <p class="modal-tagline" id="modal-tagline">"Tagline goes here"</p>
+            <div class="hero-meta-row" style="margin-bottom: 0;">
+              <span class="meta-rating num-tabular" id="modal-rating">★ 8.4</span>
+              <span class="meta-year num-tabular" id="modal-year">2014</span>
+              <span class="meta-bullet">•</span>
+              <span class="meta-runtime num-tabular" id="modal-runtime">169 min</span>
+              <span class="meta-bullet">•</span>
+              <div class="hero-genres-list" id="modal-genres"></div>
+            </div>
+          </div>
+        </div>
+
+        <p class="modal-overview-text" id="modal-overview">Full plot description...</p>
+
+        <div class="modal-metadata-grid">
+          <div class="meta-field">
+            <label>Director</label>
+            <span id="modal-director">Christopher Nolan</span>
+          </div>
+          <div class="meta-field">
+            <label>Lead Cast</label>
+            <span id="modal-cast">Actor 1, Actor 2, Actor 3</span>
+          </div>
+          <div class="meta-field" style="grid-column: 1 / -1;">
+            <label>NLP Thematic Keywords</label>
+            <div class="hero-genres-list" id="modal-keywords" style="margin-top: 6px;"></div>
+          </div>
+        </div>
+
+        <div class="modal-actions-footer">
+          <button type="button" class="btn-secondary" onclick="window.CineVerse.closeModal()">Close</button>
+          <button type="button" class="btn-primary" id="modal-recommend-btn">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path>
+            </svg>
+            <span>Recommend Movies Similar to This</span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- NLP Architecture & Stats Modal -->
+  <div class="modal-backdrop" id="stats-modal" onclick="window.CineVerse.handleModalBackdropClick(event)">
+    <div class="modal-card stats-modal-card">
+      <button type="button" class="btn-close-modal" onclick="window.CineVerse.closeStatsModal()" title="Close dialog">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+          <line x1="18" y1="6" x2="6" y2="18"></line>
+          <line x1="6" y1="6" x2="18" y2="18"></line>
+        </svg>
+      </button>
+
+      <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 16px;">
+        <div class="brand-badge" style="width: 36px; height: 36px;">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+            <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
+          </svg>
+        </div>
+        <div>
+          <h2 style="font-size: 1.5rem; font-weight: 800; color: var(--text-primary);">NLP Recommender Architecture</h2>
+          <p style="font-size: 0.9rem; color: var(--text-secondary);">B.Tech AI & Data Science Technical Overview</p>
+        </div>
+      </div>
+
+      <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6;">
+        This recommendation engine uses a content-based vector space model. For each movie, a high-dimensional feature soup combines normalized plot summaries, doubled genre weights, thematic tags, director tokens, and lead cast.
+      </p>
+
+      <div class="stats-grid" id="stats-grid">
+        <div class="stat-item-box">
+          <div class="stat-val" id="stat-movies-count">--</div>
+          <div class="stat-lbl">Movies Indexed in Corpus</div>
+        </div>
+        <div class="stat-item-box">
+          <div class="stat-val" id="stat-vocab-size">--</div>
+          <div class="stat-lbl">TF-IDF Vector Space N-grams</div>
+        </div>
+        <div class="stat-item-box">
+          <div class="stat-val" style="font-size: 1.3rem; color: var(--accent-violet);">Unigrams + Bigrams</div>
+          <div class="stat-lbl">N-Gram Feature Windows</div>
+        </div>
+        <div class="stat-item-box">
+          <div class="stat-val" id="stat-avg-rating">--</div>
+          <div class="stat-lbl">Average Corpus Rating</div>
+        </div>
+      </div>
+
+      <div class="formula-box">
+        <strong>Mathematical Formulation:</strong><br>
+        Cosine Similarity: sim(u, v) = (u · v) / (||u||₂ × ||v||₂)<br>
+        TF-IDF Term Weighting: tf-idf(t, d, D) = tf(t, d) × log(|D| / |{d ∈ D : t ∈ d}|)
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Notification Container -->
+  <div class="toast-container" id="toast-container"></div>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-inner">
+        <div class="footer-credits">
+          <strong>CineVerse</strong> &copy; 2026. Built with Python, NLP (TF-IDF &amp; Cosine Similarity), FastAPI &amp; UI/UX Pro Max.
+        </div>
+        <div class="footer-badges">
+          <span class="footer-pill">Scikit-Learn 1.9.0</span>
+          <span class="footer-pill">FastAPI 0.141</span>
+          <span class="footer-pill">TMDB Metadata</span>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Application Logic -->
+  <script src="js/app.js"></script>
+</body>
+</html>

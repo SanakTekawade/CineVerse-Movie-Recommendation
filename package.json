@@ -1,0 +1,12 @@
+{
+  "name": "cineverse-movie-recommender",
+  "version": "1.0.0",
+  "description": "CineVerse - NLP & Content-Based Movie Recommendation System",
+  "scripts": {
+    "dev": "cmd /c start.bat",
+    "start": "cmd /c start.bat"
+  },
+  "keywords": ["movie-recommender", "nlp", "fastapi", "tfidf"],
+  "author": "",
+  "license": "ISC"
+}
